@@ -1,0 +1,4616 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: adforest\n"
+"POT-Creation-Date: 2017-03-10 15:40+0500\n"
+"PO-Revision-Date: 2017-03-10 16:20+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar_SA\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#: 404.php:12
+msgid "Sorry, this page does not exist."
+msgstr "عذرا، هذه الصفحة غير موجودة"
+
+#: author.php:25
+msgid "Ad(s) posted by"
+msgstr "أرسلت بواسطة مستحق"
+
+#: comments.php:10
+msgid "Comments"
+msgstr "تعليقات"
+
+#: comments.php:29
+msgid "leave your comment"
+msgstr "اترك تعليق"
+
+#: comments.php:38
+msgid "Cancel Reply"
+msgstr "إلغاء الرد"
+
+#: comments.php:42 inc/theme_shortcodes/classes/authentication.php:18
+msgid "Name"
+msgstr "الاسم"
+
+#: comments.php:43
+msgid "Your Good Name"
+msgstr "اسمك الكريم"
+
+#: comments.php:47 inc/options-init.php:392
+#: inc/theme_shortcodes/classes/authentication.php:26
+#: inc/theme_shortcodes/classes/authentication.php:60
+#: inc/theme_shortcodes/classes/authentication.php:101
+#: inc/theme_shortcodes/shortcodes/contact_us.php:59
+#: inc/theme_shortcodes/shortcodes/contact_us.php:63
+msgid "Email"
+msgstr "بريد الكتروني"
+
+#: comments.php:48
+msgid "Your Email Please"
+msgstr "البريد الالكتروني الخاص بك الرجاء"
+
+#: comments.php:52
+msgid "Website"
+msgstr "الموقع"
+
+#: comments.php:53
+msgid "Your URL Please"
+msgstr "URL الخاص بك الرجاء"
+
+#: comments.php:59
+msgid "Commets:"
+msgstr "Commets:"
+
+#: footer.php:17
+msgid "Password sent on your email."
+msgstr "كلمة المرور المرسلة في البريد الإلكتروني الخاص بك."
+
+#: footer.php:18
+msgid "Profile saved successfully."
+msgstr "الشخصية المحفوظة بنجاح."
+
+#: footer.php:19
+msgid "Maximum upload limit reached"
+msgstr "تم الوصول إلى حد أقصى تحميل"
+
+#: footer.php:20
+msgid "You have been logged out."
+msgstr "لقد تم تسجيل الخروج"
+
+#: footer.php:25
+msgid "Are you sure to delete this?"
+msgstr "هل انت متأكد انك تريد حذف هذا ؟"
+
+#: footer.php:26
+msgid "Are you sure to update this?"
+msgstr "هل أنت متأكد من تحديث هذا؟"
+
+#: footer.php:27
+msgid "Ad updated successfully."
+msgstr "تم تحديثه بنجاح."
+
+#: footer.php:29
+msgid "Select an option"
+msgstr "حدد خياراً"
+
+#: inc/ads-widgets.php:12 inc/ads-widgets.php:133 inc/ads-widgets.php:252
+#: inc/ads-widgets.php:371 inc/ads-widgets.php:496 inc/ads-widgets.php:652
+#: inc/ads-widgets.php:820 inc/ads-widgets.php:926 inc/ads-widgets.php:1033
+#: inc/ads-widgets.php:1229 inc/ads-widgets.php:1397
+msgid "Only for search and single ad sidebar."
+msgstr "فقط من أجل البحث وإعلان واحد في الشريط الجانبي."
+
+#: inc/ads-widgets.php:15
+msgid "Ad Condition"
+msgstr "شرط"
+
+#: inc/ads-widgets.php:91 inc/theme_shortcodes/classes/ads-live.php:696
+#: inc/theme_shortcodes/classes/ads-live.php:1267
+#: inc/theme_shortcodes/classes/ads-live.php:1471
+#: inc/theme_shortcodes/classes/ads-live.php:1596
+#: inc/theme_shortcodes/classes/ads-live.php:1787
+#: inc/theme_shortcodes/classes/ads-live.php:1925
+#: inc/theme_shortcodes/classes/ads.php:719
+#: inc/theme_shortcodes/classes/ads.php:1293
+#: inc/theme_shortcodes/classes/ads.php:1497
+#: inc/theme_shortcodes/classes/ads.php:1622
+#: inc/theme_shortcodes/classes/ads.php:1813
+#: inc/theme_shortcodes/classes/ads.php:1950
+#: template-parts/layouts/ad_style/ad-detail.php:52
+msgid "Condition"
+msgstr "الحالة"
+
+#: inc/ads-widgets.php:97 inc/ads-widgets.php:216 inc/ads-widgets.php:335
+#: inc/ads-widgets.php:460 inc/ads-widgets.php:603 inc/ads-widgets.php:785
+#: inc/ads-widgets.php:891 inc/ads-widgets.php:998 inc/ads-widgets.php:1187
+#: inc/ads-widgets.php:1354 inc/widgets.php:104
+msgid "Title:"
+msgstr "العنوان:"
+
+#: inc/ads-widgets.php:136 inc/ads-widgets.php:210
+#: inc/theme_shortcodes/classes/ads-live.php:1467
+#: inc/theme_shortcodes/classes/ads-live.php:1592
+#: inc/theme_shortcodes/classes/ads.php:1493
+#: inc/theme_shortcodes/classes/ads.php:1618
+msgid "Ad Type"
+msgstr "نوع الأعلان"
+
+#: inc/ads-widgets.php:255
+msgid "Ad Warranty"
+msgstr "الضمان"
+
+#: inc/ads-widgets.php:329 inc/theme_shortcodes/classes/ads-live.php:1772
+#: inc/theme_shortcodes/classes/ads-live.php:1910
+#: inc/theme_shortcodes/classes/ads.php:1798
+#: inc/theme_shortcodes/classes/ads.php:1935
+#: inc/theme_shortcodes/shortcodes/ad_post.php:273
+#: template-parts/layouts/ad_style/ad-detail.php:60
+msgid "Warranty"
+msgstr "الضمان"
+
+#: inc/ads-widgets.php:374
+msgid "Simple or feature ad search"
+msgstr "بسيطة أو ميزة البحث الإعلانية"
+
+#: inc/ads-widgets.php:421 inc/theme_shortcodes/shortcodes/ads-slider.php:118
+#: inc/theme_shortcodes/shortcodes/ads.php:111
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:119
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:31
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:44
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:30
+msgid "Simple Ads"
+msgstr "بسيط"
+
+#: inc/ads-widgets.php:426 inc/ads-widgets.php:1174 inc/options-init.php:694
+#: inc/theme_shortcodes/classes/packages.php:40
+#: inc/theme_shortcodes/classes/profile.php:114
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:117
+#: inc/theme_shortcodes/shortcodes/ads.php:110
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:118
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:30
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:43
+#: inc/theme_shortcodes/shortcodes/products_classic.php:181
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:180
+#: inc/theme_shortcodes/shortcodes/products_modern.php:179
+#: inc/theme_shortcodes/shortcodes/products_simple.php:179
+#: inc/theme_shortcodes/shortcodes/select_product.php:140
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:29
+msgid "Featured Ads"
+msgstr "الإعلانات المميزة"
+
+#: inc/ads-widgets.php:454
+msgid "Simple or Featured"
+msgstr "بسيطة أو الموصى بها"
+
+#: inc/ads-widgets.php:499 inc/ads-widgets.php:579
+msgid "Ad Price"
+msgstr "السعر"
+
+#: inc/ads-widgets.php:546 inc/theme_shortcodes/shortcodes/ad_post.php:374
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:143
+#: template-parts/layouts/ad_style/ad-detail.php:36
+msgid "Price"
+msgstr "السعر"
+
+#: inc/ads-widgets.php:553
+#: inc/theme_shortcodes/shortcodes/search_classic.php:145
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:178
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:103
+#: inc/theme_shortcodes/shortcodes/search_modern.php:199
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:147
+#: template-parts/layouts/header-2.php:27
+msgid "Search"
+msgstr "بحث"
+
+#: inc/ads-widgets.php:597
+msgid "10000000"
+msgstr "10000000"
+
+#: inc/ads-widgets.php:609
+msgid "Min Price:"
+msgstr "أقل سعر:"
+
+#: inc/ads-widgets.php:615
+msgid "Max Price:"
+msgstr "اعلى سعر:"
+
+#: inc/ads-widgets.php:655
+msgid "Ad Categories"
+msgstr "أقسام الإعلان"
+
+#: inc/ads-widgets.php:739
+msgid "Select Any Category"
+msgstr "حدد أي فئة"
+
+#: inc/ads-widgets.php:779 inc/theme_shortcodes/shortcodes/ads-slider.php:145
+#: inc/theme_shortcodes/shortcodes/ads.php:139
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:147
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:67
+#: inc/theme_shortcodes/shortcodes/blog.php:119
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:118
+#: inc/theme_shortcodes/shortcodes/cats_color.php:30
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:110
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:110
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:118
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:110
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:110
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:72
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:51
+#: inc/theme_shortcodes/shortcodes/search_classic.php:41
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:61
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:22
+#: inc/theme_shortcodes/shortcodes/search_modern.php:74
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:48
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:61
+#: inc/widgets.php:239
+msgid "Categories"
+msgstr "الاقسام"
+
+#: inc/ads-widgets.php:823 inc/ads-widgets.php:885
+msgid "Ad Search"
+msgstr "بحث"
+
+#: inc/ads-widgets.php:858 inc/ads-widgets.php:965
+msgid "search"
+msgstr "بحث"
+
+#: inc/ads-widgets.php:929 inc/ads-widgets.php:992
+msgid "Ad Locations"
+msgstr "مكان الإعلان"
+
+#: inc/ads-widgets.php:1036
+msgid "Ad Featured"
+msgstr "اضغط هنا لتفعيل الإعلان المميز (بقيمة إضافية)."
+
+#: inc/ads-widgets.php:1122 inc/theme_shortcodes/classes/ads-live.php:718
+#: inc/theme_shortcodes/classes/ads-live.php:1261
+#: inc/theme_shortcodes/classes/ads-live.php:1722
+#: inc/theme_shortcodes/classes/ads-live.php:1856
+#: inc/theme_shortcodes/classes/ads.php:741
+#: inc/theme_shortcodes/classes/ads.php:1287
+#: inc/theme_shortcodes/classes/ads.php:1748
+#: inc/theme_shortcodes/classes/ads.php:1882
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+#: inc/ads-widgets.php:1193 inc/ads-widgets.php:1360
+msgid "Max # of Ads:"
+msgstr "# الحد الأقصى للإعلانات:"
+
+#: inc/ads-widgets.php:1232
+msgid "Ads Recent"
+msgstr "أحدث"
+
+#: inc/ads-widgets.php:1341
+msgid "Recent Ads"
+msgstr "أحدث الإعلانات"
+
+#: inc/ads-widgets.php:1400
+msgid "Adforest Advertisement"
+msgstr "إعلان أدفوريست"
+
+#: inc/ads-widgets.php:1448 inc/options-init.php:603 inc/options-init.php:611
+#: inc/options-init.php:619 inc/options-init.php:628 inc/options-init.php:716
+#: inc/options-init.php:724
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:9
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:109
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/advertisement.php:6
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:100
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:108
+msgid "Advertisement"
+msgstr "الاعلان"
+
+#: inc/ads-widgets.php:1458
+msgid "300 X 250 Ad"
+msgstr "300 X 250"
+
+#: inc/ads-widgets.php:1464
+msgid "Code:"
+msgstr "رمز:"
+
+#: inc/nav.php:215 inc/nav.php:220 inc/utilities.php:110
+#: template-parts/layouts/bread-crumb-center.php:11
+#: template-parts/layouts/bread-crumb-search.php:21
+#: template-parts/layouts/bread-crumb-simple.php:13
+#: template-parts/layouts/bread-crumb-with_bg.php:13
+#: template-parts/layouts/bread-crumb.php:27
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/nav.php:306 inc/nav.php:333
+#: inc/theme_shortcodes/shortcodes/ad_post.php:232
+#: inc/theme_shortcodes/shortcodes/ad_post.php:253
+#: inc/theme_shortcodes/shortcodes/ad_post.php:274
+#: inc/theme_shortcodes/shortcodes/search_modern.php:54
+msgid "Select Option"
+msgstr "اختر"
+
+#: inc/nav.php:306
+msgid "Simple Menu"
+msgstr "بسيط"
+
+#: inc/nav.php:306
+msgid "Mega Menu"
+msgstr "القائمة الضخمة"
+
+#: inc/nav.php:324
+msgid "Column size "
+msgstr "عمود"
+
+#: inc/nav.php:333 inc/options-init.php:621
+msgid "Right Side"
+msgstr "الجانب الايمن"
+
+#: inc/nav.php:333 inc/options-init.php:630
+msgid "Left Side"
+msgstr "الجانب الايسر"
+
+#: inc/nav.php:348 inc/nav.php:361
+msgid "Select Option - (No Offset)"
+msgstr "حدد الخيار-(أي إزاحة)"
+
+#: inc/nav.php:352
+msgid "Column Offset "
+msgstr "إزاحة العمود"
+
+#: inc/nav.php:365
+msgid "Vertical Offset"
+msgstr "إزاحة رأسية"
+
+#: inc/nav.php:438
+msgid "Lebel Color"
+msgstr "لون ليبيل"
+
+#: inc/nav.php:444
+msgid "Lebel Text"
+msgstr "نص ليبيل"
+
+#: inc/nav.php:446
+msgid "Enter some text"
+msgstr "أدخل بعض النص"
+
+#: inc/nav.php:451
+msgid "This select option is only for 1st level menu"
+msgstr "حدد هذا الخيار فقط لقائمة المستوى 1"
+
+#: inc/nav.php:457
+msgid "In parent add bigger value and in 2nd level add small value"
+msgstr "في الأصل إضافة قيمة أكبر وفي المستوى الثاني إضافة القيمة الصغيرة"
+
+#: inc/nav.php:463
+msgid "Menu Icons (Font Awesome Icons). "
+msgstr "قائمة الرموز (رموز رهيبة الخط)."
+
+#: inc/nav.php:470
+msgid "Select Options - For simple menu only"
+msgstr "حدد خيارات-لقائمة بسيطة فقط"
+
+#: inc/nav.php:477 inc/nav.php:484
+msgid "Select Options (For mega menu 1st level menu only)"
+msgstr "حدد الخيارات (الضخمة القائمة الأولى مستوى القائمة فقط)"
+
+#: inc/options-init.php:27 inc/options-init.php:29 inc/options-init.php:33
+msgid "Theme Options"
+msgstr "خيارات القالب"
+
+#: inc/options-init.php:76
+msgid "Like us on Facebook"
+msgstr "الاعجاب بالصفحة علي فيس بوك"
+
+#: inc/options-init.php:93
+msgid "Theme Information 1"
+msgstr "معلومات القالب 1"
+
+#: inc/options-init.php:94 inc/options-init.php:99
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>This is the tab content, HTML is allowed.</p>"
+
+#: inc/options-init.php:98
+msgid "Theme Information 2"
+msgstr "معلومات القالب 2"
+
+#: inc/options-init.php:105
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>محتوى الشريط الجانبي,  يسمح بإستخدام عناصر  HTML</p>"
+
+#: inc/options-init.php:124
+msgid "General"
+msgstr "عام"
+
+#: inc/options-init.php:132
+msgid "Pre Page Loader"
+msgstr "محمل الصفحة ( الأيقونة التي تظهر عند بداية تحميل الصفحة)"
+
+#: inc/options-init.php:138
+msgid "Color Plate"
+msgstr "لوحة الألوان"
+
+#: inc/options-init.php:144
+msgid "Theme Colors"
+msgstr "الألوان موضوع"
+
+#: inc/options-init.php:157
+msgid "RTL"
+msgstr "RTL"
+
+#: inc/options-init.php:163
+msgid "Admin Bar"
+msgstr "شريط الإدارة العلوي"
+
+#: inc/options-init.php:164
+msgid "wordpress"
+msgstr "Wordpress"
+
+#: inc/options-init.php:170
+msgid "Scroll to top"
+msgstr "چوققا"
+
+#: inc/options-init.php:176
+msgid "Ad Post Sticky Button"
+msgstr "إعلان وظيفة زر مثبت"
+
+#: inc/options-init.php:184
+msgid "Header"
+msgstr "رأس الصفحة"
+
+#: inc/options-init.php:192 inc/theme_shortcodes/shortcodes/about.php:53
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:53
+#: inc/theme_shortcodes/shortcodes/ads.php:46
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:54
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:53
+#: inc/theme_shortcodes/shortcodes/blog.php:53
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:52
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:52
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:52
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:52
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:52
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:52
+#: inc/theme_shortcodes/shortcodes/faq.php:52
+#: inc/theme_shortcodes/shortcodes/partners.php:53
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:53
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:53
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:52
+#: inc/theme_shortcodes/shortcodes/products_classic.php:53
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:53
+#: inc/theme_shortcodes/shortcodes/products_modern.php:53
+#: inc/theme_shortcodes/shortcodes/products_simple.php:53
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:47
+#: inc/theme_shortcodes/shortcodes/text_block.php:45
+#: inc/theme_shortcodes/shortcodes/why_chose.php:53
+msgid "Header Style"
+msgstr "نمط الرأس"
+
+#: inc/options-init.php:202
+msgid "Top Bar"
+msgstr "الشريط العلوي"
+
+#: inc/options-init.php:208
+msgid "Sticky Menu"
+msgstr "القائمة المرنة"
+
+#: inc/options-init.php:217
+msgid "Select Pages"
+msgstr "اختر الصفحات"
+
+#: inc/options-init.php:218
+msgid "for top bar"
+msgstr "شريط علوي"
+
+#: inc/options-init.php:226
+msgid "Sign In Page"
+msgstr "تسجيل الدخول"
+
+#: inc/options-init.php:234
+msgid "Sign Up Page"
+msgstr "تسجيل الاشتراك"
+
+#: inc/options-init.php:242
+msgid "Profile Page"
+msgstr "صفحة الملف الشخصي"
+
+#: inc/options-init.php:250
+msgid "Ad Post Page"
+msgstr "صفحة منشور"
+
+#: inc/options-init.php:258 inc/theme_shortcodes/shortcodes/partners.php:129
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:129
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:129
+msgid "Logo"
+msgstr "شعار"
+
+#: inc/options-init.php:260 inc/options-init.php:270 inc/options-init.php:1050
+msgid "Site Logo image for the site."
+msgstr "صورة شعار الموقع للموقع."
+
+#: inc/options-init.php:261 inc/options-init.php:271 inc/options-init.php:1051
+msgid "Dimensions: 230 x 40"
+msgstr "الأبعاد: 230 × 40"
+
+#: inc/options-init.php:268
+msgid "Logo on Sticky"
+msgstr "شعار على مثبت"
+
+#: inc/options-init.php:277
+msgid "Post A AD"
+msgstr "إضافة"
+
+#: inc/options-init.php:278
+msgid "Show Button in Menu"
+msgstr "إظهار زر في القائمة"
+
+#: inc/options-init.php:284
+msgid "Search Bar"
+msgstr "شريط البحث"
+
+#: inc/options-init.php:285
+msgid "in header"
+msgstr "تظهر في الرأس"
+
+#: inc/options-init.php:295 inc/theme_shortcodes/shortcodes/ads-slider.php:110
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:122
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:135
+#: inc/theme_shortcodes/shortcodes/ads.php:103
+#: inc/theme_shortcodes/shortcodes/ads.php:115
+#: inc/theme_shortcodes/shortcodes/ads.php:129
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:111
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:123
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:137
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:23
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:57
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:36
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:48
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:62
+msgid "Ads Settings"
+msgstr "ئېلان تەڭشەش"
+
+#: inc/options-init.php:302
+msgid "General Settings"
+msgstr "الإعدادات عامة"
+
+#: inc/options-init.php:311
+msgid "Communications Mode"
+msgstr "وضع الاتصالات"
+
+#: inc/options-init.php:313 inc/theme_shortcodes/shortcodes/contact_us.php:51
+#: inc/theme_shortcodes/shortcodes/contact_us.php:55
+msgid "Phone"
+msgstr "رقم الهاتف"
+
+#: inc/options-init.php:314
+msgid "Messages"
+msgstr "الرسائل"
+
+#: inc/options-init.php:315
+msgid "Both"
+msgstr "كلاهما"
+
+#: inc/options-init.php:322
+msgid "Send email on message"
+msgstr "إرسال بريد إلكتروني في رسالة"
+
+#: inc/options-init.php:323
+msgid "When someone drop a message on ad then email send to concern user."
+msgstr ""
+"عند شخص إسقاط رسالة على الإعلان ثم إرسال البريد الإلكتروني إلى القلق "
+"المستخدم."
+
+#: inc/options-init.php:330
+msgid "Select Currency"
+msgstr "اختر العملة"
+
+#: inc/options-init.php:337
+msgid "Ad Approval"
+msgstr "مقبول"
+
+#: inc/options-init.php:344
+msgid "Ad Update Approval"
+msgstr "إعلان الموافقة على التحديث"
+
+#: inc/options-init.php:350
+msgid "Feature Ad Expired"
+msgstr "انتهت مدة صلاحية الإعلان الميزة"
+
+#: inc/options-init.php:351
+msgid "In DAYS"
+msgstr "في أيام"
+
+#: inc/options-init.php:352
+msgid "Only integer value without spaces -1 means never expired."
+msgstr "قيمة عدد صحيح فقط دون وسائل ممنوع-1 انتهت ابدأ."
+
+#: inc/options-init.php:359
+msgid "Ad Packages Page"
+msgstr "صفحة الحزم الإعلانية"
+
+#: inc/options-init.php:365
+msgid "Enable Ad Share"
+msgstr "تمكين مشاركة الإعلانية"
+
+#: inc/options-init.php:372
+msgid "Report ad Options"
+msgstr "تقرير الخيارات الإعلانية"
+
+#: inc/options-init.php:378
+msgid "Ad Report Limit"
+msgstr "إعلان تقرير الحد الأقصى"
+
+#: inc/options-init.php:379
+msgid "Only integer value without spaces."
+msgstr "فقط قيمة عدد صحيح بدون مسافات."
+
+#: inc/options-init.php:385
+msgid "Action on Ad Report Limit"
+msgstr "اتخاذ إجراء بشأن إعلان تقرير الحد الأقصى"
+
+#: inc/options-init.php:393
+msgid "Email where you want to get notify."
+msgstr "حيث تريد الحصول على إعلام البريد الإلكتروني."
+
+#: inc/options-init.php:401
+msgid "Default Image"
+msgstr "صورة شعار الموقع للموقع."
+
+#: inc/options-init.php:403
+msgid "If there is no image of ad then this will be show."
+msgstr "صورة شعار الموقع للموقع."
+
+#: inc/options-init.php:404
+msgid "Dimensions: 300 x 225"
+msgstr "الأبعاد: 230 × 40"
+
+#: inc/options-init.php:411
+msgid "Ads Post Settings"
+msgstr "إعدادات المقالة"
+
+#: inc/options-init.php:420
+msgid "Free Ads"
+msgstr "إعلانات مجانية"
+
+#: inc/options-init.php:427
+msgid "Free Ads limit"
+msgstr "الحد من الإعلانات المجانية"
+
+#: inc/options-init.php:429 inc/options-init.php:445
+msgid "It must be an inter value, -1 means unlimited."
+msgstr "يجب أن تكون قيمة إنتر-1 وسائل غير محدودة."
+
+#: inc/options-init.php:436
+msgid "Free Featured Ads"
+msgstr "الإعلانات المميزة"
+
+#: inc/options-init.php:443
+msgid "Featured Ads limit"
+msgstr "حد إعلان الموصى بها"
+
+#: inc/options-init.php:451
+msgid "Free package validity"
+msgstr "صلاحية الحزمة مجاناً"
+
+#: inc/options-init.php:452
+msgid "In days"
+msgstr "في أيام"
+
+#: inc/options-init.php:454
+msgid "It must be an inter value, -1 means never expired."
+msgstr "يجب أن تكون قيمة إنتر، انتهت الوسائل-1 ابدأ."
+
+#: inc/options-init.php:461
+msgid "Ad image set limit"
+msgstr "تحديد صورة إعلانية"
+
+#: inc/options-init.php:468
+msgid "Ad image max size"
+msgstr "إعلان الحد الأقصى لحجم الصورة"
+
+#: inc/options-init.php:475
+msgid "Display Condition Taxonomy"
+msgstr "عرض حالة التصنيف"
+
+#: inc/options-init.php:481
+msgid "Display Warranty Taxonomy"
+msgstr "عرض تصنيف الضمان"
+
+#: inc/options-init.php:488
+msgid "Bad Words Filter"
+msgstr "عامل تصفية الكلمات السيئة"
+
+#: inc/options-init.php:489
+msgid "comma separated"
+msgstr "مفصولة بفاصلة"
+
+#: inc/options-init.php:490
+msgid "word1,word2"
+msgstr "word1، word2"
+
+#: inc/options-init.php:491
+msgid "This words will be removed from AD Title and Description"
+msgstr "سيتم إزالة هذه الكلمات من عنوان الإعلان، ووصف"
+
+#: inc/options-init.php:497
+msgid "Bad Words Replace Word"
+msgstr "كلمات سيئة لاستبدال كلمة"
+
+#: inc/options-init.php:498
+msgid ""
+"This words will be replace with above bad words list from AD Title and "
+"Description"
+msgstr ""
+"وستكون هذه الكلمات استبدال مع أعلى قائمة الكلمات السيئة من عنوان الإعلان، "
+"ووصف"
+
+#: inc/options-init.php:509
+msgid "Ads View Settings"
+msgstr "عرض الإعدادات"
+
+#: inc/options-init.php:519
+msgid "Ad Style"
+msgstr "اسلوب"
+
+#: inc/options-init.php:531
+msgid "Images Slider Type"
+msgstr "نوع المنزلق الصور"
+
+#: inc/options-init.php:543
+msgid "Related Ads"
+msgstr "اعلانات ذات صلة"
+
+#: inc/options-init.php:549
+msgid "Related Ads Section Title"
+msgstr "عنوان المقطع الإعلانات ذات الصلة"
+
+#: inc/options-init.php:556
+msgid "Max Related ads to show"
+msgstr "الإعلانات المتعلقة بالحد الأقصى لإظهار"
+
+#: inc/options-init.php:564
+msgid "Related Ad Style"
+msgstr "نمط الإعلانية ذات الصلة"
+
+#: inc/options-init.php:576
+msgid "Tips Section Title"
+msgstr "عنوان القسم"
+
+#: inc/options-init.php:583
+msgid "Deal Tips"
+msgstr "نصائح صفقة"
+
+#: inc/options-init.php:604 inc/options-init.php:612 inc/options-init.php:717
+#: inc/options-init.php:725
+msgid "720 x 90"
+msgstr "720 × 90"
+
+#: inc/options-init.php:605 inc/options-init.php:718
+msgid "Above the Ad description"
+msgstr "أعلاه وصف الإعلان"
+
+#: inc/options-init.php:613 inc/options-init.php:726
+msgid "Below the Ad description"
+msgstr "فيما يلي وصف الإعلان"
+
+#: inc/options-init.php:620 inc/options-init.php:629 inc/options-init.php:784
+#: inc/options-init.php:792
+msgid "160 x 600"
+msgstr "160 X 600"
+
+#: inc/options-init.php:642
+msgid "Search Settings"
+msgstr "إعدادات البحث"
+
+#: inc/options-init.php:653
+msgid "Search Page"
+msgstr "صفحة البحث"
+
+#: inc/options-init.php:659
+msgid "Search Layout"
+msgstr "تصميم صفحة البحث"
+
+#: inc/options-init.php:673
+msgid "Search Section BG Color"
+msgstr "البحث عن قسم BG اللون"
+
+#: inc/options-init.php:683
+msgid "Search results BG Color"
+msgstr "نتائج البحث عن لون حرس الحدود"
+
+#: inc/options-init.php:700
+msgid "Max Featured ads to show"
+msgstr "إعلان ماكس المميز لإظهار"
+
+#: inc/options-init.php:708
+msgid "Featured Ads Title"
+msgstr "عنوان الإعلانات المميزة"
+
+#: inc/options-init.php:735
+msgid "BreadCrumb"
+msgstr "التفصيلي"
+
+#: inc/options-init.php:744 inc/theme_shortcodes/shortcodes/sign_in.php:17
+#: inc/theme_shortcodes/shortcodes/sign_up.php:17
+msgid "BG Image"
+msgstr "صورة"
+
+#: inc/options-init.php:746
+msgid "BG image on breadcrumb."
+msgstr "صورة شعار الموقع للموقع."
+
+#: inc/options-init.php:756
+msgid "Blog Settings"
+msgstr "اعدادات المدونة"
+
+#: inc/options-init.php:764
+msgid "Blog Sidebar"
+msgstr "الشريط الجانبي للمدونة"
+
+#: inc/options-init.php:775
+msgid "Blog Page Title"
+msgstr "عنوان الصفحة"
+
+#: inc/options-init.php:783
+msgid "Ad on Right"
+msgstr "الإعلان على حق"
+
+#: inc/options-init.php:791
+msgid "Ad on Left"
+msgstr "الإعلان على اليسار"
+
+#: inc/options-init.php:799
+msgid "Single Post Title"
+msgstr "عنوان موضوع مفرد"
+
+#: inc/options-init.php:808
+msgid "Enable Share"
+msgstr "تمكين المشاركة"
+
+#: inc/options-init.php:809
+msgid "on single Post"
+msgstr "مشاركة واحدة"
+
+#: inc/options-init.php:819
+msgid "API Settings"
+msgstr "إعدادات API"
+
+#: inc/options-init.php:828
+msgid "Google ReCAPTCHA API Key"
+msgstr "جوجل ReCAPTCHA API الرئيسية"
+
+#: inc/options-init.php:830 inc/options-init.php:838 inc/options-init.php:846
+#: inc/options-init.php:852 inc/options-init.php:866 inc/options-init.php:916
+#: inc/options-init.php:1155
+msgid "How to Find it"
+msgstr "كيفية العثور عليه"
+
+#: inc/options-init.php:836
+msgid "Google ReCAPTCHA API Secret"
+msgstr "جوجل ReCAPTCHA API السري"
+
+#: inc/options-init.php:845
+msgid "MailChimp API Key"
+msgstr "مفتاح API MailChimp"
+
+#: inc/options-init.php:851
+msgid "Google Map API Key"
+msgstr "مفتاح API  لخرائط جوجل"
+
+#: inc/options-init.php:858
+msgid "Facebook Client ID"
+msgstr "معرف العميل فيسبوك"
+
+#: inc/options-init.php:859
+msgid "How to Make"
+msgstr "كيف...؟"
+
+#: inc/options-init.php:865
+msgid "Gmail Client ID"
+msgstr "معرف عميل بريد جوجل"
+
+#: inc/options-init.php:873
+msgid "Redirect URI"
+msgstr "إعادة توجيه"
+
+#: inc/options-init.php:874
+msgid ""
+"Must be URI where you want to redirect after thentication, it will be your "
+"web url."
+msgstr ""
+"يجب أن يكون URI الذي تريد إعادة توجيه بعد ثينتيكيشن، وسيكون عنوان الويب "
+"الخاص بك."
+
+#: inc/options-init.php:882
+msgid "Comming Soon"
+msgstr "سآتي قريبا"
+
+#: inc/options-init.php:890
+msgid "Comming Soon Mode"
+msgstr "تأتي قريبا من وضع"
+
+#: inc/options-init.php:898
+msgid "Comming Soon Logo"
+msgstr "تأتي قريبا من شعار"
+
+#: inc/options-init.php:900
+msgid "Dimensions: 220 x 40"
+msgstr "الأبعاد: 220 × 40"
+
+#: inc/options-init.php:906
+msgid "Notify Section"
+msgstr "إعلام القسم"
+
+#: inc/options-init.php:913 inc/options-init.php:1152
+msgid "MailChimp List ID"
+msgstr "رقم عضوية قائمة البريد"
+
+#: inc/options-init.php:921
+msgid "Set Date"
+msgstr "ضبط التاريخ"
+
+#: inc/options-init.php:922
+msgid "When you ready to launch"
+msgstr "عندما كنت على استعداد لإطلاق"
+
+#: inc/options-init.php:923
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+#: inc/options-init.php:929 inc/theme_shortcodes/shortcodes/about.php:120
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:49
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:54
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:91
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:132
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:160
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:188
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:39
+#: inc/theme_shortcodes/shortcodes/why_chose.php:129
+#: template-parts/layouts/ad_style/ad-detail.php:31
+msgid "Description"
+msgstr "الوصف"
+
+#: inc/options-init.php:935 inc/options-init.php:965 inc/options-init.php:973
+msgid "Social Media"
+msgstr "حسابات التواصل الاجتماعى"
+
+#: inc/options-init.php:936 inc/options-init.php:974
+msgid "You can sort it out as you want."
+msgstr "يمكنك فرز كما تريد."
+
+#: inc/options-init.php:1006
+msgid "Footer Settings"
+msgstr "اعدادات التذييل"
+
+#: inc/options-init.php:1014 inc/options-init.php:1026
+msgid "Footer Style"
+msgstr "نمط التذييل"
+
+#: inc/options-init.php:1039
+msgid "Footer BG"
+msgstr "ذيل الصفحة"
+
+#: inc/options-init.php:1048
+msgid "Footer Logo"
+msgstr "شعار الفوتر"
+
+#: inc/options-init.php:1059
+msgid "Footer Text"
+msgstr "نص الفوتر"
+
+#: inc/options-init.php:1060
+msgid "under logo"
+msgstr "تحت شعار"
+
+#: inc/options-init.php:1067
+msgid "Android App Link"
+msgstr "أندرويد"
+
+#: inc/options-init.php:1074
+msgid "IOS App Link"
+msgstr "رابط التطبيق دائرة الرقابة الداخلية"
+
+#: inc/options-init.php:1082
+msgid "Contact Info"
+msgstr "معلومات الاتصال"
+
+#: inc/options-init.php:1083
+msgid "Add address, phone, fax, email and timing"
+msgstr "إضافة العنوان والهاتف، والفاكس، والبريد الإلكتروني وتوقيت"
+
+#: inc/options-init.php:1084
+msgid "You can sort out it as you want."
+msgstr "يمكنك فرز فإنه كما تريد."
+
+#: inc/options-init.php:1108
+msgid "Section-2 Title"
+msgstr "عنوان المقطع-2"
+
+#: inc/options-init.php:1109 inc/options-init.php:1128
+#: inc/options-init.php:1136 inc/options-init.php:1173
+msgid "Footer Section"
+msgstr "مقطع التذييل"
+
+#: inc/options-init.php:1119 inc/options-init.php:1183
+msgid "QUICK LINKS"
+msgstr "روابط سريعة"
+
+#: inc/options-init.php:1121 inc/options-init.php:1185
+msgid "Select Page Links For The Footer"
+msgstr "حدد الصفحة ارتباطات لتذييل الصفحة"
+
+#: inc/options-init.php:1127
+msgid "Section-3 Title"
+msgstr "عنوان المقطع-3"
+
+#: inc/options-init.php:1135
+msgid "Section-3 Description"
+msgstr "وصف القسم-3"
+
+#: inc/options-init.php:1144
+msgid "News Letter"
+msgstr "الخطاب"
+
+#: inc/options-init.php:1160
+msgid "MAX # of posts"
+msgstr "# الحد الأقصى من الوظائف"
+
+#: inc/options-init.php:1161
+msgid "In Footer"
+msgstr "تظهر في التذييل"
+
+#: inc/options-init.php:1162
+msgid "Only that post(s) will be appear that have featured image."
+msgstr "سوف تظهر فقط أن وظيفة (وظائف) وقد ظهرت صورة."
+
+#: inc/options-init.php:1172
+msgid "Section-4 Title"
+msgstr "العنوان:"
+
+#: inc/options-init.php:1191
+msgid "Footer Bar"
+msgstr "الفوتر ‪/‬ بار"
+
+#: inc/options-init.php:1205
+msgid "Custom CSS/Javascript"
+msgstr "جافا سكريبت/المغلق المخصص"
+
+#: inc/options-init.php:1207
+msgid ""
+"Here you can write CSS and Javascript that will add just before closing body "
+"tag section."
+msgstr ""
+"هنا يمكنك كتابة CSS و Javascript التي سوف تضيف فقط قبل إغلاق قسم العلامة "
+"body."
+
+#: inc/theme_settings.php:72
+msgid "adforest Primary Menu"
+msgstr "أدفوريست \"القائمة الرئيسية\""
+
+#: inc/theme_settings.php:96
+msgid "adforest Sidebar"
+msgstr "أدفوريست الشريط الجانبي"
+
+#: inc/theme_settings.php:105
+msgid "Ads Search"
+msgstr "بحث"
+
+#: inc/theme_settings.php:113
+msgid "Single Ad Top"
+msgstr "إعلان منفرد"
+
+#: inc/theme_settings.php:121
+msgid "Single Ad Bottom"
+msgstr "أسفل واحد الإعلانية"
+
+#: inc/theme_shortcodes/classes/ad_post.php:319
+#: inc/theme_shortcodes/classes/profile.php:697
+msgid "Sorry, only JPG, JPEG, PNG & GIF files are allowed."
+msgstr "عذراً، ملفات JPG، JPEG، PNG & GIF فقط مسموح بها."
+
+#: inc/theme_shortcodes/classes/ad_post.php:326
+msgid "Max allowd image size is"
+msgstr "الحد الأقصى لحجم الصورة اللوود"
+
+#: inc/theme_shortcodes/classes/ad_post.php:346
+msgid "You can not upload more than "
+msgstr "لا يمكنك تحميل أكثر من"
+
+#: inc/theme_shortcodes/classes/ad_post.php:432
+msgid "You have reported already."
+msgstr "وقد ذكرت لك فعلا."
+
+#: inc/theme_shortcodes/classes/ad_post.php:459
+msgid "Ad Reported"
+msgstr "تم التبليغ"
+
+#: inc/theme_shortcodes/classes/ad_post.php:460
+msgid "Users reported this ad, please check it. "
+msgstr "المستخدمين عن هذا الإعلان، يرجى التحقق من ذلك."
+
+#: inc/theme_shortcodes/classes/ad_post.php:466
+msgid "Reported successfully."
+msgstr "وذكرت بنجاح."
+
+#: inc/theme_shortcodes/classes/ad_post.php:505
+msgid "New Message"
+msgstr "رسالة جديدة"
+
+#: inc/theme_shortcodes/classes/ad_post.php:506
+msgid "Got new message on ad"
+msgstr "حصلت على رسالة جديدة على الإعلان"
+
+#: inc/theme_shortcodes/classes/ad_post.php:514
+msgid "Message sent successfully ."
+msgstr "تم إرسال الرسالة بنجاح!"
+
+#: inc/theme_shortcodes/classes/ad_post.php:518
+msgid "Message not sent, please try again later."
+msgstr "لم يتم إرسال الرسالة. الرجاح المحاولة من جديد لاحقًا."
+
+#: inc/theme_shortcodes/classes/ad_post.php:571
+#: inc/theme_shortcodes/classes/ads-live.php:891
+#: inc/theme_shortcodes/classes/ads-live.php:1066
+#: inc/theme_shortcodes/classes/ads.php:914
+#: inc/theme_shortcodes/classes/ads.php:1099
+#: template-parts/layouts/ad_style/style-1.php:136
+msgid "Profile Pic"
+msgstr "صفحة شخصية"
+
+#: inc/theme_shortcodes/classes/ad_post.php:589
+msgid "You are not logged in."
+msgstr "لم يتم تسجيل دخولك."
+
+#: inc/theme_shortcodes/classes/ads-live.php:69
+#: inc/theme_shortcodes/classes/ads.php:69
+msgid "Post Status"
+msgstr "حالة المنشور"
+
+#: inc/theme_shortcodes/classes/ads-live.php:96
+#: inc/theme_shortcodes/classes/ads-live.php:395
+#: inc/theme_shortcodes/classes/ads.php:96
+#: inc/theme_shortcodes/classes/ads.php:419
+msgid "Edit this Ad"
+msgstr "تعديل"
+
+#: inc/theme_shortcodes/classes/ads-live.php:99
+#: inc/theme_shortcodes/classes/ads-live.php:107
+#: inc/theme_shortcodes/classes/ads-live.php:398
+#: inc/theme_shortcodes/classes/ads.php:110
+#: inc/theme_shortcodes/classes/ads.php:130
+#: inc/theme_shortcodes/classes/ads.php:422
+#: template-parts/layouts/ad_style/feature-notification.php:66
+msgid "Are you sure?"
+msgstr "هل أنت متأكد؟"
+
+#: inc/theme_shortcodes/classes/ads-live.php:283
+#: inc/theme_shortcodes/classes/ads-live.php:445
+#: inc/theme_shortcodes/classes/ads-live.php:567
+#: inc/theme_shortcodes/classes/ads-live.php:1199
+#: inc/theme_shortcodes/classes/ads-live.php:1717
+#: inc/theme_shortcodes/classes/ads.php:307
+#: inc/theme_shortcodes/classes/ads.php:469
+#: inc/theme_shortcodes/classes/ads.php:591
+#: inc/theme_shortcodes/classes/ads.php:1225
+#: inc/theme_shortcodes/classes/ads.php:1743
+#: template-parts/layouts/ad_style/short-summary.php:23
+msgid "Views"
+msgstr "مشاهدات"
+
+#: inc/theme_shortcodes/classes/ads-live.php:312
+#: inc/theme_shortcodes/classes/ads.php:336
+#: template-parts/layouts/ad_style/feature-notification.php:50
+#: template-parts/layouts/ad_style/style-1.php:29
+#: template-parts/layouts/ad_style/style-2.php:34
+msgid "Info"
+msgstr "معلومات"
+
+#: inc/theme_shortcodes/classes/ads-live.php:313
+#: inc/theme_shortcodes/classes/ads.php:337
+#: template-parts/layouts/ad_style/feature-notification.php:10
+msgid "Waiting for admin approval."
+msgstr "شريط الإدارة العلوي"
+
+#: inc/theme_shortcodes/classes/ads-live.php:410
+#: inc/theme_shortcodes/classes/ads-live.php:540
+#: inc/theme_shortcodes/classes/ads-live.php:1169
+#: inc/theme_shortcodes/classes/ads-live.php:1237
+#: inc/theme_shortcodes/classes/ads-live.php:1326
+#: inc/theme_shortcodes/classes/ads-live.php:1655
+#: inc/theme_shortcodes/classes/ads-live.php:1758
+#: inc/theme_shortcodes/classes/ads-live.php:1896
+#: inc/theme_shortcodes/classes/ads.php:434
+#: inc/theme_shortcodes/classes/ads.php:564
+#: inc/theme_shortcodes/classes/ads.php:1195
+#: inc/theme_shortcodes/classes/ads.php:1263
+#: inc/theme_shortcodes/classes/ads.php:1352
+#: inc/theme_shortcodes/classes/ads.php:1681
+#: inc/theme_shortcodes/classes/ads.php:1784
+#: inc/theme_shortcodes/classes/ads.php:1921
+#: template-parts/layouts/ad_style/title-box.php:7
+msgid "Featured"
+msgstr "مميز"
+
+#: inc/theme_shortcodes/classes/ads-live.php:572
+#: inc/theme_shortcodes/classes/ads.php:596
+msgid "Saved Ad"
+msgstr "تم الحفظ"
+
+#: inc/theme_shortcodes/classes/ads-live.php:675
+#: inc/theme_shortcodes/classes/ads.php:698
+msgid "Contact"
+msgstr "تواصل"
+
+#: inc/theme_shortcodes/classes/ads-live.php:687
+#: inc/theme_shortcodes/classes/ads.php:710
+#: inc/theme_shortcodes/shortcodes/ad_post.php:486
+#: inc/theme_shortcodes/shortcodes/contact_us.php:43
+#: inc/theme_shortcodes/shortcodes/contact_us.php:47
+msgid "Address"
+msgstr "العنوان"
+
+#: inc/theme_shortcodes/classes/ads-live.php:707
+#: inc/theme_shortcodes/classes/ads-live.php:1266
+#: inc/theme_shortcodes/classes/ads.php:730
+#: inc/theme_shortcodes/classes/ads.php:1292
+#: inc/theme_shortcodes/shortcodes/ad_post.php:33
+#: template-parts/layouts/ad_style/ad-detail.php:41
+#: tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "النوع"
+
+#: inc/theme_shortcodes/classes/ads-live.php:715
+#: inc/theme_shortcodes/classes/ads.php:738
+#: template-parts/layouts/ad_style/ad-tabs.php:20
+msgid "Add to Favourites"
+msgstr "x إضافه الى المفضلة"
+
+#: inc/theme_shortcodes/classes/ads-live.php:831
+#: inc/theme_shortcodes/classes/ads-live.php:918
+#: inc/theme_shortcodes/classes/ads-live.php:991
+#: inc/theme_shortcodes/classes/ads.php:854
+#: inc/theme_shortcodes/classes/ads.php:941
+#: inc/theme_shortcodes/classes/ads.php:1013
+msgid "No message received on this ad yet."
+msgstr "لا توجد رسالة وردت في هذا الإعلان حتى الآن."
+
+#: inc/theme_shortcodes/classes/ads-live.php:909
+#: inc/theme_shortcodes/classes/ads-live.php:1088
+#: inc/theme_shortcodes/classes/ads.php:932
+#: inc/theme_shortcodes/classes/ads.php:1121
+msgid "Type a message here..."
+msgstr "اكتب رسالة هنا..."
+
+#: inc/theme_shortcodes/classes/ads-live.php:909
+#: inc/theme_shortcodes/classes/ads-live.php:1088
+#: inc/theme_shortcodes/classes/ads.php:932
+#: inc/theme_shortcodes/classes/ads.php:1121
+#: inc/theme_shortcodes/shortcodes/ad_post.php:310
+#: inc/theme_shortcodes/shortcodes/ad_post.php:366
+#: inc/theme_shortcodes/shortcodes/ad_post.php:382
+#: inc/theme_shortcodes/shortcodes/ad_post.php:476
+#: inc/theme_shortcodes/shortcodes/ad_post.php:480
+#: inc/theme_shortcodes/shortcodes/ad_post.php:487
+#: template-parts/layouts/ad_style/message-seller.php:28
+msgid "This field is required."
+msgstr "هذا الحقل مطلوب."
+
+#: inc/theme_shortcodes/classes/ads-live.php:911
+#: inc/theme_shortcodes/classes/ads-live.php:1090
+#: inc/theme_shortcodes/classes/ads.php:934
+#: inc/theme_shortcodes/classes/ads.php:1123
+msgid "Send"
+msgstr "إرسال"
+
+#: inc/theme_shortcodes/classes/ads-live.php:934
+#: inc/theme_shortcodes/classes/ads.php:956
+msgid "Inbox"
+msgstr "علبة الوارد"
+
+#: inc/theme_shortcodes/classes/ads-live.php:1097
+#: inc/theme_shortcodes/classes/ads.php:1130
+msgid "Nothing Found."
+msgstr "لم يتم العثور على شيء."
+
+#: inc/theme_shortcodes/classes/ads-live.php:1113
+#: inc/theme_shortcodes/classes/ads.php:1139
+msgid "Ads List"
+msgstr "بسيط"
+
+#: inc/theme_shortcodes/classes/ads-live.php:1265
+#: inc/theme_shortcodes/classes/ads.php:1291
+msgid "Posted on"
+msgstr "تاريخ النشر"
+
+#: inc/theme_shortcodes/classes/ads-live.php:1396
+#: inc/theme_shortcodes/classes/ads-live.php:1523
+#: inc/theme_shortcodes/classes/ads.php:1422
+#: inc/theme_shortcodes/classes/ads.php:1549
+msgid "photos"
+msgstr "الصور"
+
+#: inc/theme_shortcodes/classes/ads-live.php:1446
+#: inc/theme_shortcodes/classes/ads-live.php:1571
+#: inc/theme_shortcodes/classes/ads.php:1472
+#: inc/theme_shortcodes/classes/ads.php:1597
+msgid "Save"
+msgstr "حفظ"
+
+#: inc/theme_shortcodes/classes/ads-live.php:1475
+#: inc/theme_shortcodes/classes/ads-live.php:1600
+#: inc/theme_shortcodes/classes/ads.php:1501
+#: inc/theme_shortcodes/classes/ads.php:1626
+#: template-parts/layouts/ad_style/style-1.php:157
+msgid "Visits"
+msgstr "زيارات"
+
+#: inc/theme_shortcodes/classes/ads-live.php:1489
+#: inc/theme_shortcodes/classes/ads-live.php:1614
+#: inc/theme_shortcodes/classes/ads.php:1515
+#: inc/theme_shortcodes/classes/ads.php:1640
+msgid "View Ad"
+msgstr "عرض الإعلان"
+
+#: inc/theme_shortcodes/classes/ads-live.php:1854
+#: inc/theme_shortcodes/classes/ads.php:1880
+msgid "Posted"
+msgstr "نشر"
+
+#: inc/theme_shortcodes/classes/ads.php:102
+#: inc/theme_shortcodes/classes/ads.php:122
+msgid "Delete Disable for Demo"
+msgstr "حذف تعطيل للعرض"
+
+#: inc/theme_shortcodes/classes/authentication.php:19
+#: inc/theme_shortcodes/classes/profile.php:276
+#: inc/theme_shortcodes/shortcodes/ad_post.php:475
+#: template-parts/layouts/ad_style/message-seller.php:19
+msgid "Your Name"
+msgstr "اسمك"
+
+#: inc/theme_shortcodes/classes/authentication.php:19
+msgid "Please enter your name."
+msgstr "الرجاء إدخال اسم الخاص بك."
+
+#: inc/theme_shortcodes/classes/authentication.php:22
+#: inc/theme_shortcodes/classes/profile.php:284
+msgid "Contact Number"
+msgstr "شماره تماس"
+
+#: inc/theme_shortcodes/classes/authentication.php:23
+msgid "Your Contact Number"
+msgstr "رقم التواصل"
+
+#: inc/theme_shortcodes/classes/authentication.php:23
+msgid "Please enter your contact number."
+msgstr "الرجاء إدخال رقم الاتصال الخاص بك."
+
+#: inc/theme_shortcodes/classes/authentication.php:27
+#: inc/theme_shortcodes/classes/authentication.php:61
+#: inc/theme_shortcodes/classes/authentication.php:102
+msgid "Your Email"
+msgstr "إيميلك"
+
+#: inc/theme_shortcodes/classes/authentication.php:27
+#: inc/theme_shortcodes/classes/authentication.php:61
+msgid "Please enter your valid email."
+msgstr "يرجى إدخال بريد إلكتروني صحيح"
+
+#: inc/theme_shortcodes/classes/authentication.php:30
+#: inc/theme_shortcodes/classes/authentication.php:64
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: inc/theme_shortcodes/classes/authentication.php:31
+#: inc/theme_shortcodes/classes/authentication.php:65
+msgid "Your Password"
+msgstr "كلمة المرور"
+
+#: inc/theme_shortcodes/classes/authentication.php:31
+#: inc/theme_shortcodes/classes/authentication.php:65
+msgid "Please enter your password."
+msgstr "رجاءاً أدخل كلمة المرور."
+
+#: inc/theme_shortcodes/classes/authentication.php:40
+msgid "I am agreed to"
+msgstr "وأنا وافقت على"
+
+#: inc/theme_shortcodes/classes/authentication.php:48
+msgid "Register"
+msgstr "تسجيل"
+
+#: inc/theme_shortcodes/classes/authentication.php:49
+#: inc/theme_shortcodes/classes/authentication.php:87
+#: inc/theme_shortcodes/classes/authentication.php:107
+#: template-parts/layouts/coming-soon.php:47
+#: template-parts/layouts/footer-2.php:87
+msgid "Processing..."
+msgstr "جارى المعالجة....."
+
+#: inc/theme_shortcodes/classes/authentication.php:50
+#: inc/theme_shortcodes/classes/authentication.php:88
+msgid "Redirecting..."
+msgstr "إعادة التوجيه…"
+
+#: inc/theme_shortcodes/classes/authentication.php:74
+msgid "Remember Me"
+msgstr "تذكرني"
+
+#: inc/theme_shortcodes/classes/authentication.php:80
+msgid "Forgot password?"
+msgstr "أنسيت كلمة المرور ؟"
+
+#: inc/theme_shortcodes/classes/authentication.php:86
+msgid "Login"
+msgstr "دخول"
+
+#: inc/theme_shortcodes/classes/authentication.php:102
+msgid "Please enter valid email."
+msgstr "من فضلك أدخل عنوان بريد إلكتروني صحيح."
+
+#: inc/theme_shortcodes/classes/authentication.php:106
+#: inc/theme_shortcodes/classes/profile.php:352
+msgid "Reset My Account"
+msgstr "إعادة تعيين الحساب الخاص بي"
+
+#: inc/theme_shortcodes/classes/authentication.php:154
+msgid "Your new password"
+msgstr "كلمة المرور الجديدة الخاصة بك"
+
+#: inc/theme_shortcodes/classes/authentication.php:157
+msgid "Your new password is: "
+msgstr "كلمة المرور الجديدة هي:"
+
+#: inc/theme_shortcodes/classes/authentication.php:178
+msgid "Email server not responding"
+msgstr "أرسل الملقم لا يستجيب"
+
+#: inc/theme_shortcodes/classes/authentication.php:184
+msgid "Email is not resgistered with us."
+msgstr "البريد الإلكتروني لا ريسجيستيريد معنا."
+
+#: inc/theme_shortcodes/classes/authentication.php:211
+msgid "Invalid email or password."
+msgstr "البريد الإلكتروني غير صحيح أو كلمة المرور."
+
+#: inc/theme_shortcodes/classes/authentication.php:264
+msgid "please verify captcha code"
+msgstr "الرجاء التحقق من التعليمات البرمجية كلمة التحقق"
+
+#: inc/theme_shortcodes/classes/authentication.php:270
+msgid "Email already exist, please try other one."
+msgstr "البريد الإلكتروني موجودة بالفعل، الرجاء محاولة واحدة أخرى."
+
+#: inc/theme_shortcodes/classes/authentication.php:328
+msgid "You're logged in successfully."
+msgstr "لقد تم تسجيل الدخول بنجاح!"
+
+#: inc/theme_shortcodes/classes/authentication.php:333
+msgid "not registered with us."
+msgstr "غير مسجل معنا."
+
+#: inc/theme_shortcodes/classes/packages.php:30
+#: inc/theme_shortcodes/classes/packages.php:34
+#: inc/theme_shortcodes/shortcodes/products_classic.php:171
+#: inc/theme_shortcodes/shortcodes/products_classic.php:175
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:170
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:174
+#: inc/theme_shortcodes/shortcodes/products_modern.php:169
+#: inc/theme_shortcodes/shortcodes/products_modern.php:173
+#: inc/theme_shortcodes/shortcodes/products_simple.php:169
+#: inc/theme_shortcodes/shortcodes/products_simple.php:173
+#: inc/theme_shortcodes/shortcodes/select_product.php:130
+#: inc/theme_shortcodes/shortcodes/select_product.php:134
+msgid "Validity"
+msgstr "الصلاحية"
+
+#: inc/theme_shortcodes/classes/packages.php:30
+#: inc/theme_shortcodes/shortcodes/products_classic.php:171
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:170
+#: inc/theme_shortcodes/shortcodes/products_modern.php:169
+#: inc/theme_shortcodes/shortcodes/products_simple.php:169
+#: inc/theme_shortcodes/shortcodes/select_product.php:130
+msgid "Lifetime"
+msgstr "الفترة الزمنية"
+
+#: inc/theme_shortcodes/classes/packages.php:34
+#: inc/theme_shortcodes/shortcodes/products_classic.php:175
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:174
+#: inc/theme_shortcodes/shortcodes/products_modern.php:173
+#: inc/theme_shortcodes/shortcodes/products_simple.php:173
+#: inc/theme_shortcodes/shortcodes/select_product.php:134
+msgid "Days"
+msgstr "أيام"
+
+#: inc/theme_shortcodes/classes/packages.php:38
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:165
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:160
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:166
+#: inc/theme_shortcodes/shortcodes/products_classic.php:179
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:178
+#: inc/theme_shortcodes/shortcodes/products_modern.php:177
+#: inc/theme_shortcodes/shortcodes/products_simple.php:177
+#: inc/theme_shortcodes/shortcodes/select_product.php:138
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:6
+msgid "Ads"
+msgstr "إعلانات"
+
+#: inc/theme_shortcodes/classes/packages.php:49
+msgid "Add to Cart"
+msgstr "اضف الى عربة التسوق"
+
+#: inc/theme_shortcodes/classes/profile.php:23
+msgid "Sent Offers"
+msgstr "العروض"
+
+#: inc/theme_shortcodes/classes/profile.php:33
+msgid "Packages"
+msgstr "الباقات"
+
+#: inc/theme_shortcodes/classes/profile.php:41
+msgid "Paid"
+msgstr "مدفوع"
+
+#: inc/theme_shortcodes/classes/profile.php:50
+#: inc/theme_shortcodes/classes/profile.php:304
+#: inc/theme_shortcodes/classes/profile.php:312
+msgid "Profile Picture"
+msgstr "الصورة الشخصية"
+
+#: inc/theme_shortcodes/classes/profile.php:58
+msgid "Profile"
+msgstr "صفحة شخصية"
+
+#: inc/theme_shortcodes/classes/profile.php:59
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: inc/theme_shortcodes/classes/profile.php:62
+msgid "Ago"
+msgstr "مرّت"
+
+#: inc/theme_shortcodes/classes/profile.php:73
+msgid "Ad Sold"
+msgstr "إعلان بيع"
+
+#: inc/theme_shortcodes/classes/profile.php:79
+msgid "Total Listings"
+msgstr "اجمالي  الإعلانات"
+
+#: inc/theme_shortcodes/classes/profile.php:85
+msgid "Inactve ads"
+msgstr "إعلان إيناكتفي"
+
+#: inc/theme_shortcodes/classes/profile.php:104
+msgid "My Ads"
+msgstr "اعلاناتي"
+
+#: inc/theme_shortcodes/classes/profile.php:109
+msgid "Inactive Ads"
+msgstr "غير نشط"
+
+#: inc/theme_shortcodes/classes/profile.php:119
+msgid "Fav Ads"
+msgstr "إعلان الصوت العربي الحر"
+
+#: inc/theme_shortcodes/classes/profile.php:152
+msgid "Never"
+msgstr "ابداً"
+
+#: inc/theme_shortcodes/classes/profile.php:161
+#: inc/theme_shortcodes/classes/profile.php:170
+msgid "Unlimited"
+msgstr "غير محدود"
+
+#: inc/theme_shortcodes/classes/profile.php:179
+msgid "Manage your profile"
+msgstr "عرض / إدارة ملف التعريف الخاص بك"
+
+#: inc/theme_shortcodes/classes/profile.php:181
+msgid "Your name"
+msgstr "اسمك"
+
+#: inc/theme_shortcodes/classes/profile.php:185
+#: inc/theme_shortcodes/classes/profile.php:280
+#: template-parts/layouts/ad_style/message-seller.php:23
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: inc/theme_shortcodes/classes/profile.php:189
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: inc/theme_shortcodes/classes/profile.php:193
+msgid "You are a"
+msgstr "لقد تم تسجيل الخروج"
+
+#: inc/theme_shortcodes/classes/profile.php:197
+#: inc/theme_shortcodes/classes/profile.php:294
+#: template-parts/layouts/ad_style/ad-detail.php:83
+msgid "Location"
+msgstr "موقع"
+
+#: inc/theme_shortcodes/classes/profile.php:201
+msgid "Package Type"
+msgstr "نوع الحزمة"
+
+#: inc/theme_shortcodes/classes/profile.php:205
+msgid "Free Ads Remaining"
+msgstr "# الحد الأقصى للإعلانات:"
+
+#: inc/theme_shortcodes/classes/profile.php:209
+msgid "Feature Ads Remaining"
+msgstr "ميزة الإعلانات المتبقية"
+
+#: inc/theme_shortcodes/classes/profile.php:213
+msgid "Package Expiry"
+msgstr "انتهاء الحزمة"
+
+#: inc/theme_shortcodes/classes/profile.php:245
+msgid "Indiviual"
+msgstr "المنفردة"
+
+#: inc/theme_shortcodes/classes/profile.php:246
+msgid "Dealer"
+msgstr "تاجر السيارات"
+
+#: inc/theme_shortcodes/classes/profile.php:253
+msgid "Disable for Demo"
+msgstr "تعطيل للعرض"
+
+#: inc/theme_shortcodes/classes/profile.php:253
+#: inc/theme_shortcodes/classes/profile.php:257
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+#: inc/theme_shortcodes/classes/profile.php:266
+msgid "Manage Your Account"
+msgstr "إدارة الحساب الخاص بك"
+
+#: inc/theme_shortcodes/classes/profile.php:288
+msgid "I am"
+msgstr "أنا"
+
+#: inc/theme_shortcodes/classes/profile.php:322
+msgid "Update My Info"
+msgstr "تحديث معلومات بلدي"
+
+#: inc/theme_shortcodes/classes/profile.php:334
+msgid "Password Change"
+msgstr "تغيير كلمة المرور"
+
+#: inc/theme_shortcodes/classes/profile.php:339
+#: inc/theme_shortcodes/classes/profile.php:340
+msgid "Current Password"
+msgstr "كلمة المرور الحالية"
+
+#: inc/theme_shortcodes/classes/profile.php:343
+#: inc/theme_shortcodes/classes/profile.php:344
+msgid "New Password"
+msgstr "كلمة المرور الجديدة"
+
+#: inc/theme_shortcodes/classes/profile.php:347
+msgid "Confirm New Password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: inc/theme_shortcodes/classes/profile.php:348
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+#: inc/theme_shortcodes/classes/profile.php:379
+msgid "You must need to logged in."
+msgstr "يجب عليك تسجيل الدخول."
+
+#: inc/theme_shortcodes/classes/profile.php:389
+msgid "Added to cart."
+msgstr "تمت الإضافة لعربة التسوق"
+
+#: inc/theme_shortcodes/classes/profile.php:393
+msgid "Already in your cart."
+msgstr "الفعل في سلة التسوق الخاصة بك."
+
+#: inc/theme_shortcodes/classes/profile.php:415
+#: inc/theme_shortcodes/classes/profile.php:914
+msgid "Your package has bee expired."
+msgstr "الحزمة الخاصة بك والنحل قد انتهت."
+
+#: inc/theme_shortcodes/classes/profile.php:425
+msgid "This ad has been featured successfullly."
+msgstr "وقد تم هذا الإعلان سوكسيسفوللي الموصى بها."
+
+#: inc/theme_shortcodes/classes/profile.php:429
+msgid "Get package in order to make it feature."
+msgstr "الحصول على حزمة من أجل جعله ميزة."
+
+#: inc/theme_shortcodes/classes/profile.php:434
+msgid "You must be Ad owner tomake it feature."
+msgstr "يجب أن تكون توماكى صاحب الإعلان أنها ميزة."
+
+#: inc/theme_shortcodes/classes/profile.php:703
+msgid "Max allowd image size is 300KB"
+msgstr "الحد الأقصى لحجم الصورة اللوود هو 300 كيلو بايت"
+
+#: inc/theme_shortcodes/classes/profile.php:811
+msgid "You have added already."
+msgstr "وقد قمت بإضافتها مسبقاً."
+
+#: inc/theme_shortcodes/classes/profile.php:816
+msgid "Added to your favourites."
+msgstr "إضافة إلى المفضلة الخاصة بك."
+
+#: inc/theme_shortcodes/classes/profile.php:833
+#: inc/theme_shortcodes/classes/profile.php:852
+msgid "Ad removed successfully."
+msgstr "تم إزالة الإعلان بنجاح."
+
+#: inc/theme_shortcodes/classes/profile.php:837
+#: inc/theme_shortcodes/classes/profile.php:856
+msgid "There'is some problem, please try again later."
+msgstr "There'is بعض المشكلة، الرجاء المحاولة مرة أخرى لاحقاً."
+
+#: inc/theme_shortcodes/classes/profile.php:873
+msgid "Updated successfully."
+msgstr "تم التحديث بنجاح"
+
+#: inc/theme_shortcodes/classes/profile.php:904
+msgid "Please subcribe package for ad posting."
+msgstr "الرجاء subcribe الحزمة لنشر الإعلانات."
+
+#: inc/theme_shortcodes/classes/profile.php:965
+msgid "All fields are required."
+msgstr "جميع الحقول مطلوبة."
+
+#: inc/theme_shortcodes/classes/profile.php:970
+msgid "New password not matched."
+msgstr "كلمة المرور المرسلة في البريد الإلكتروني الخاص بك."
+
+#: inc/theme_shortcodes/classes/profile.php:977
+msgid "Password changed successfully."
+msgstr "پاسورڈ کامیابی سے بدل دیا گیا"
+
+#: inc/theme_shortcodes/classes/profile.php:981
+msgid "Current password not matched."
+msgstr "عدم تطابق كلمة المرور الحالية."
+
+#: inc/theme_shortcodes/shortcodes/about.php:9
+#: inc/theme_shortcodes/shortcodes/about.php:110
+#: inc/theme_shortcodes/shortcodes/about.php:117
+#: inc/theme_shortcodes/shortcodes/about.php:125
+#: inc/theme_shortcodes/shortcodes/about.php:132
+msgid "About Us"
+msgstr "معلومات عنا"
+
+#: inc/theme_shortcodes/shortcodes/about.php:11
+#: inc/theme_shortcodes/shortcodes/ad_post.php:11
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:12
+#: inc/theme_shortcodes/shortcodes/ads.php:11
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:12
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:11
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:12
+#: inc/theme_shortcodes/shortcodes/apps.php:11
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:11
+#: inc/theme_shortcodes/shortcodes/blog.php:11
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:11
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:11
+#: inc/theme_shortcodes/shortcodes/cats_color.php:11
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:11
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:11
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:11
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:11
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:11
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:11
+#: inc/theme_shortcodes/shortcodes/contact_us.php:11
+#: inc/theme_shortcodes/shortcodes/faq.php:11
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:11
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:11
+#: inc/theme_shortcodes/shortcodes/partners.php:11
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:11
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:11
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:11
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:11
+#: inc/theme_shortcodes/shortcodes/products_classic.php:11
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:11
+#: inc/theme_shortcodes/shortcodes/products_modern.php:11
+#: inc/theme_shortcodes/shortcodes/products_simple.php:11
+#: inc/theme_shortcodes/shortcodes/profile.php:11
+#: inc/theme_shortcodes/shortcodes/search_classic.php:11
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:11
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:11
+#: inc/theme_shortcodes/shortcodes/search_modern.php:11
+#: inc/theme_shortcodes/shortcodes/search_simple.php:11
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:11
+#: inc/theme_shortcodes/shortcodes/select_product.php:11
+#: inc/theme_shortcodes/shortcodes/sign_in.php:11
+#: inc/theme_shortcodes/shortcodes/sign_up.php:11
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:9
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/advertisement.php:9
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:13
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:9
+#: inc/theme_shortcodes/shortcodes/text_block.php:11
+#: inc/theme_shortcodes/shortcodes/why_chose.php:11
+msgid "Theme Shortcodes"
+msgstr "موضوع الهاتفية القصيرة"
+
+#: inc/theme_shortcodes/shortcodes/about.php:14
+#: inc/theme_shortcodes/shortcodes/about.php:16
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:15
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:17
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:15
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:17
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:14
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:16
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:15
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:17
+#: inc/theme_shortcodes/shortcodes/apps.php:14
+#: inc/theme_shortcodes/shortcodes/apps.php:16
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:14
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:16
+#: inc/theme_shortcodes/shortcodes/blog.php:14
+#: inc/theme_shortcodes/shortcodes/blog.php:16
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:14
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:16
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:14
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:16
+#: inc/theme_shortcodes/shortcodes/cats_color.php:14
+#: inc/theme_shortcodes/shortcodes/cats_color.php:16
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:14
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:16
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:14
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:16
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:14
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:16
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:14
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:16
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:14
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:16
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:14
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:16
+#: inc/theme_shortcodes/shortcodes/contact_us.php:14
+#: inc/theme_shortcodes/shortcodes/contact_us.php:16
+#: inc/theme_shortcodes/shortcodes/faq.php:14
+#: inc/theme_shortcodes/shortcodes/faq.php:16
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:14
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:16
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:14
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:16
+#: inc/theme_shortcodes/shortcodes/partners.php:14
+#: inc/theme_shortcodes/shortcodes/partners.php:16
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:14
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:16
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:14
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:16
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:14
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:16
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:14
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:16
+#: inc/theme_shortcodes/shortcodes/products_classic.php:14
+#: inc/theme_shortcodes/shortcodes/products_classic.php:16
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:14
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:16
+#: inc/theme_shortcodes/shortcodes/products_modern.php:14
+#: inc/theme_shortcodes/shortcodes/products_modern.php:16
+#: inc/theme_shortcodes/shortcodes/products_simple.php:14
+#: inc/theme_shortcodes/shortcodes/products_simple.php:16
+#: inc/theme_shortcodes/shortcodes/search_classic.php:14
+#: inc/theme_shortcodes/shortcodes/search_classic.php:16
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:14
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:16
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:14
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:16
+#: inc/theme_shortcodes/shortcodes/search_modern.php:14
+#: inc/theme_shortcodes/shortcodes/search_modern.php:16
+#: inc/theme_shortcodes/shortcodes/search_simple.php:14
+#: inc/theme_shortcodes/shortcodes/search_simple.php:16
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:14
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:16
+#: inc/theme_shortcodes/shortcodes/select_product.php:14
+#: inc/theme_shortcodes/shortcodes/select_product.php:16
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/advertisement.php:14
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/advertisement.php:16
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:14
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:16
+#: inc/theme_shortcodes/shortcodes/why_chose.php:14
+#: inc/theme_shortcodes/shortcodes/why_chose.php:16
+msgid "Shortcode Output"
+msgstr "إخراج القصير"
+
+#: inc/theme_shortcodes/shortcodes/about.php:18
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:19
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:19
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:18
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:19
+#: inc/theme_shortcodes/shortcodes/apps.php:18
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:18
+#: inc/theme_shortcodes/shortcodes/blog.php:18
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:18
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:18
+#: inc/theme_shortcodes/shortcodes/cats_color.php:18
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:18
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:18
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:18
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:18
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:18
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:18
+#: inc/theme_shortcodes/shortcodes/contact_us.php:18
+#: inc/theme_shortcodes/shortcodes/faq.php:18
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:18
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:18
+#: inc/theme_shortcodes/shortcodes/partners.php:18
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:18
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:18
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:18
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:18
+#: inc/theme_shortcodes/shortcodes/products_classic.php:18
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:18
+#: inc/theme_shortcodes/shortcodes/products_modern.php:18
+#: inc/theme_shortcodes/shortcodes/products_simple.php:18
+#: inc/theme_shortcodes/shortcodes/search_classic.php:18
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:18
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:18
+#: inc/theme_shortcodes/shortcodes/search_modern.php:18
+#: inc/theme_shortcodes/shortcodes/search_simple.php:18
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:18
+#: inc/theme_shortcodes/shortcodes/select_product.php:18
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/advertisement.php:18
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:18
+#: inc/theme_shortcodes/shortcodes/why_chose.php:18
+msgid "Ouput of the shortcode will be look like this."
+msgstr "سوف يكون الإخراج للقصير تبدو مثل هذا."
+
+#: inc/theme_shortcodes/shortcodes/about.php:21
+#: inc/theme_shortcodes/shortcodes/about.php:38
+#: inc/theme_shortcodes/shortcodes/about.php:51
+#: inc/theme_shortcodes/shortcodes/about.php:67
+#: inc/theme_shortcodes/shortcodes/about.php:81
+#: inc/theme_shortcodes/shortcodes/about.php:95
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:22
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:38
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:51
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:67
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:81
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:95
+#: inc/theme_shortcodes/shortcodes/ads.php:14
+#: inc/theme_shortcodes/shortcodes/ads.php:31
+#: inc/theme_shortcodes/shortcodes/ads.php:44
+#: inc/theme_shortcodes/shortcodes/ads.php:60
+#: inc/theme_shortcodes/shortcodes/ads.php:74
+#: inc/theme_shortcodes/shortcodes/ads.php:88
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:23
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:39
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:52
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:68
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:82
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:96
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:22
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:38
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:51
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:67
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:81
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:95
+#: inc/theme_shortcodes/shortcodes/apps.php:21
+#: inc/theme_shortcodes/shortcodes/apps.php:30
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:21
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:30
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:39
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:47
+#: inc/theme_shortcodes/shortcodes/blog.php:21
+#: inc/theme_shortcodes/shortcodes/blog.php:38
+#: inc/theme_shortcodes/shortcodes/blog.php:51
+#: inc/theme_shortcodes/shortcodes/blog.php:67
+#: inc/theme_shortcodes/shortcodes/blog.php:81
+#: inc/theme_shortcodes/shortcodes/blog.php:95
+#: inc/theme_shortcodes/shortcodes/blog.php:110
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:21
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:38
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:50
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:66
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:80
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:94
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:108
+#: inc/theme_shortcodes/shortcodes/cats_color.php:21
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:21
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:38
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:50
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:66
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:80
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:94
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:125
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:21
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:38
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:50
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:66
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:80
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:94
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:21
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:38
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:50
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:66
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:80
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:94
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:108
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:21
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:38
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:50
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:66
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:80
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:94
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:21
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:38
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:50
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:66
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:80
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:94
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:125
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:21
+#: inc/theme_shortcodes/shortcodes/contact_us.php:21
+#: inc/theme_shortcodes/shortcodes/contact_us.php:28
+#: inc/theme_shortcodes/shortcodes/contact_us.php:35
+#: inc/theme_shortcodes/shortcodes/faq.php:21
+#: inc/theme_shortcodes/shortcodes/faq.php:38
+#: inc/theme_shortcodes/shortcodes/faq.php:50
+#: inc/theme_shortcodes/shortcodes/faq.php:66
+#: inc/theme_shortcodes/shortcodes/faq.php:80
+#: inc/theme_shortcodes/shortcodes/faq.php:94
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:21
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:30
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:21
+#: inc/theme_shortcodes/shortcodes/partners.php:21
+#: inc/theme_shortcodes/shortcodes/partners.php:38
+#: inc/theme_shortcodes/shortcodes/partners.php:51
+#: inc/theme_shortcodes/shortcodes/partners.php:67
+#: inc/theme_shortcodes/shortcodes/partners.php:81
+#: inc/theme_shortcodes/shortcodes/partners.php:95
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:21
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:38
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:51
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:67
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:81
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:95
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:21
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:38
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:51
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:67
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:81
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:95
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:21
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:29
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:39
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:21
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:37
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:50
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:66
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:80
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:94
+#: inc/theme_shortcodes/shortcodes/products_classic.php:21
+#: inc/theme_shortcodes/shortcodes/products_classic.php:38
+#: inc/theme_shortcodes/shortcodes/products_classic.php:51
+#: inc/theme_shortcodes/shortcodes/products_classic.php:67
+#: inc/theme_shortcodes/shortcodes/products_classic.php:81
+#: inc/theme_shortcodes/shortcodes/products_classic.php:95
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:21
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:38
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:51
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:67
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:81
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:95
+#: inc/theme_shortcodes/shortcodes/products_modern.php:21
+#: inc/theme_shortcodes/shortcodes/products_modern.php:38
+#: inc/theme_shortcodes/shortcodes/products_modern.php:51
+#: inc/theme_shortcodes/shortcodes/products_modern.php:67
+#: inc/theme_shortcodes/shortcodes/products_modern.php:81
+#: inc/theme_shortcodes/shortcodes/products_modern.php:95
+#: inc/theme_shortcodes/shortcodes/products_simple.php:21
+#: inc/theme_shortcodes/shortcodes/products_simple.php:38
+#: inc/theme_shortcodes/shortcodes/products_simple.php:51
+#: inc/theme_shortcodes/shortcodes/products_simple.php:67
+#: inc/theme_shortcodes/shortcodes/products_simple.php:81
+#: inc/theme_shortcodes/shortcodes/products_simple.php:95
+#: inc/theme_shortcodes/shortcodes/search_classic.php:21
+#: inc/theme_shortcodes/shortcodes/search_classic.php:30
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:21
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:29
+#: inc/theme_shortcodes/shortcodes/search_modern.php:21
+#: inc/theme_shortcodes/shortcodes/search_modern.php:30
+#: inc/theme_shortcodes/shortcodes/search_modern.php:38
+#: inc/theme_shortcodes/shortcodes/search_modern.php:48
+#: inc/theme_shortcodes/shortcodes/search_modern.php:60
+#: inc/theme_shortcodes/shortcodes/search_simple.php:21
+#: inc/theme_shortcodes/shortcodes/search_simple.php:30
+#: inc/theme_shortcodes/shortcodes/search_simple.php:39
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:21
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:29
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:37
+#: inc/theme_shortcodes/shortcodes/select_product.php:21
+#: inc/theme_shortcodes/shortcodes/select_product.php:30
+#: inc/theme_shortcodes/shortcodes/select_product.php:38
+#: inc/theme_shortcodes/shortcodes/select_product.php:46
+#: inc/theme_shortcodes/shortcodes/select_product.php:53
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:15
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:22
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:34
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:51
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:17
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:33
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:45
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:61
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:75
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:89
+#: inc/theme_shortcodes/shortcodes/text_block.php:14
+#: inc/theme_shortcodes/shortcodes/text_block.php:30
+#: inc/theme_shortcodes/shortcodes/text_block.php:43
+#: inc/theme_shortcodes/shortcodes/text_block.php:59
+#: inc/theme_shortcodes/shortcodes/text_block.php:73
+#: inc/theme_shortcodes/shortcodes/text_block.php:87
+#: inc/theme_shortcodes/shortcodes/why_chose.php:21
+#: inc/theme_shortcodes/shortcodes/why_chose.php:38
+#: inc/theme_shortcodes/shortcodes/why_chose.php:51
+#: inc/theme_shortcodes/shortcodes/why_chose.php:67
+#: inc/theme_shortcodes/shortcodes/why_chose.php:81
+#: inc/theme_shortcodes/shortcodes/why_chose.php:95
+msgid "Basic"
+msgstr "أساسي"
+
+#: inc/theme_shortcodes/shortcodes/about.php:23
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:24
+#: inc/theme_shortcodes/shortcodes/ads.php:16
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:25
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:24
+#: inc/theme_shortcodes/shortcodes/blog.php:23
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:23
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:23
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:23
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:23
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:23
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:23
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:23
+#: inc/theme_shortcodes/shortcodes/faq.php:23
+#: inc/theme_shortcodes/shortcodes/partners.php:23
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:23
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:23
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:23
+#: inc/theme_shortcodes/shortcodes/products_classic.php:23
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:23
+#: inc/theme_shortcodes/shortcodes/products_modern.php:23
+#: inc/theme_shortcodes/shortcodes/products_simple.php:23
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:19
+#: inc/theme_shortcodes/shortcodes/text_block.php:16
+#: inc/theme_shortcodes/shortcodes/why_chose.php:23
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: inc/theme_shortcodes/shortcodes/about.php:27
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:28
+#: inc/theme_shortcodes/shortcodes/ads.php:20
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:29
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:28
+#: inc/theme_shortcodes/shortcodes/blog.php:27
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:27
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:27
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:27
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:27
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:27
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:27
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:27
+#: inc/theme_shortcodes/shortcodes/faq.php:27
+#: inc/theme_shortcodes/shortcodes/partners.php:27
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:27
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:27
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:27
+#: inc/theme_shortcodes/shortcodes/products_classic.php:27
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:27
+#: inc/theme_shortcodes/shortcodes/products_modern.php:27
+#: inc/theme_shortcodes/shortcodes/products_simple.php:27
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:23
+#: inc/theme_shortcodes/shortcodes/text_block.php:20
+#: inc/theme_shortcodes/shortcodes/why_chose.php:27
+msgid "Select Background Color"
+msgstr "اختر لون الخلفية"
+
+#: inc/theme_shortcodes/shortcodes/about.php:28
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:29
+#: inc/theme_shortcodes/shortcodes/ads.php:21
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:30
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:29
+#: inc/theme_shortcodes/shortcodes/blog.php:28
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:28
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:28
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:28
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:28
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:28
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:28
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:28
+#: inc/theme_shortcodes/shortcodes/faq.php:28
+#: inc/theme_shortcodes/shortcodes/partners.php:28
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:28
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:28
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:28
+#: inc/theme_shortcodes/shortcodes/products_classic.php:28
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:28
+#: inc/theme_shortcodes/shortcodes/products_modern.php:28
+#: inc/theme_shortcodes/shortcodes/products_simple.php:28
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:24
+#: inc/theme_shortcodes/shortcodes/text_block.php:21
+#: inc/theme_shortcodes/shortcodes/why_chose.php:28
+msgid "White"
+msgstr "أبيض"
+
+#: inc/theme_shortcodes/shortcodes/about.php:29
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:30
+#: inc/theme_shortcodes/shortcodes/ads.php:22
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:31
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:30
+#: inc/theme_shortcodes/shortcodes/blog.php:29
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:29
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:29
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:29
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:29
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:29
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:29
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:29
+#: inc/theme_shortcodes/shortcodes/faq.php:29
+#: inc/theme_shortcodes/shortcodes/partners.php:29
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:29
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:29
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:29
+#: inc/theme_shortcodes/shortcodes/products_classic.php:29
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:29
+#: inc/theme_shortcodes/shortcodes/products_modern.php:29
+#: inc/theme_shortcodes/shortcodes/products_simple.php:29
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:25
+#: inc/theme_shortcodes/shortcodes/text_block.php:22
+#: inc/theme_shortcodes/shortcodes/why_chose.php:29
+msgid "Gray"
+msgstr "رمادي"
+
+#: inc/theme_shortcodes/shortcodes/about.php:30
+#: inc/theme_shortcodes/shortcodes/about.php:135
+#: inc/theme_shortcodes/shortcodes/ads.php:23
+#: inc/theme_shortcodes/shortcodes/blog.php:30
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:30
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:30
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:30
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:30
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:30
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:30
+#: inc/theme_shortcodes/shortcodes/faq.php:30
+#: inc/theme_shortcodes/shortcodes/partners.php:30
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:30
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:30
+#: inc/theme_shortcodes/shortcodes/products_classic.php:30
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:30
+#: inc/theme_shortcodes/shortcodes/products_modern.php:30
+#: inc/theme_shortcodes/shortcodes/products_simple.php:30
+#: inc/theme_shortcodes/shortcodes/why_chose.php:30
+msgid "Image"
+msgstr "صورة"
+
+#: inc/theme_shortcodes/shortcodes/about.php:34
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:34
+#: inc/theme_shortcodes/shortcodes/ads.php:27
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:35
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:34
+#: inc/theme_shortcodes/shortcodes/blog.php:34
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:34
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:34
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:34
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:34
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:34
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:34
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:33
+#: inc/theme_shortcodes/shortcodes/faq.php:34
+#: inc/theme_shortcodes/shortcodes/partners.php:34
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:34
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:34
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:33
+#: inc/theme_shortcodes/shortcodes/products_classic.php:34
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:34
+#: inc/theme_shortcodes/shortcodes/products_modern.php:34
+#: inc/theme_shortcodes/shortcodes/products_simple.php:34
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:29
+#: inc/theme_shortcodes/shortcodes/text_block.php:26
+#: inc/theme_shortcodes/shortcodes/why_chose.php:34
+msgid "Select background color."
+msgstr "اختر لون الخلفية"
+
+#: inc/theme_shortcodes/shortcodes/about.php:42
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:42
+#: inc/theme_shortcodes/shortcodes/ads.php:35
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:43
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:42
+#: inc/theme_shortcodes/shortcodes/apps.php:25
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:25
+#: inc/theme_shortcodes/shortcodes/blog.php:42
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:24
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:41
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:41
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:41
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:41
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:41
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:41
+#: inc/theme_shortcodes/shortcodes/faq.php:41
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:25
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:25
+#: inc/theme_shortcodes/shortcodes/partners.php:42
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:42
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:42
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:24
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:41
+#: inc/theme_shortcodes/shortcodes/products_classic.php:42
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:42
+#: inc/theme_shortcodes/shortcodes/products_modern.php:42
+#: inc/theme_shortcodes/shortcodes/products_simple.php:42
+#: inc/theme_shortcodes/shortcodes/search_classic.php:25
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:52
+#: inc/theme_shortcodes/shortcodes/search_modern.php:25
+#: inc/theme_shortcodes/shortcodes/search_simple.php:25
+#: inc/theme_shortcodes/shortcodes/select_product.php:25
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:36
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:46
+#: inc/theme_shortcodes/shortcodes/text_block.php:34
+#: inc/theme_shortcodes/shortcodes/why_chose.php:42
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: inc/theme_shortcodes/shortcodes/about.php:57
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:57
+#: inc/theme_shortcodes/shortcodes/ads.php:50
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:58
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:57
+#: inc/theme_shortcodes/shortcodes/blog.php:57
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:56
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:56
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:56
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:56
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:56
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:56
+#: inc/theme_shortcodes/shortcodes/faq.php:56
+#: inc/theme_shortcodes/shortcodes/partners.php:57
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:57
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:57
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:56
+#: inc/theme_shortcodes/shortcodes/products_classic.php:57
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:57
+#: inc/theme_shortcodes/shortcodes/products_modern.php:57
+#: inc/theme_shortcodes/shortcodes/products_simple.php:57
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:51
+#: inc/theme_shortcodes/shortcodes/text_block.php:49
+#: inc/theme_shortcodes/shortcodes/why_chose.php:57
+msgid "Section Header Style"
+msgstr "نمط رأس المقطع"
+
+#: inc/theme_shortcodes/shortcodes/about.php:58
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:58
+#: inc/theme_shortcodes/shortcodes/ads.php:51
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:59
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:58
+#: inc/theme_shortcodes/shortcodes/blog.php:58
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:57
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:57
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:57
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:57
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:57
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:57
+#: inc/theme_shortcodes/shortcodes/faq.php:57
+#: inc/theme_shortcodes/shortcodes/partners.php:58
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:58
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:58
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:57
+#: inc/theme_shortcodes/shortcodes/products_classic.php:58
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:58
+#: inc/theme_shortcodes/shortcodes/products_modern.php:58
+#: inc/theme_shortcodes/shortcodes/products_simple.php:58
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:52
+#: inc/theme_shortcodes/shortcodes/text_block.php:50
+#: inc/theme_shortcodes/shortcodes/why_chose.php:58
+msgid "No Header"
+msgstr "بدون عنوان"
+
+#: inc/theme_shortcodes/shortcodes/about.php:59
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:59
+#: inc/theme_shortcodes/shortcodes/ads.php:52
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:60
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:59
+#: inc/theme_shortcodes/shortcodes/blog.php:59
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:58
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:58
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:58
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:58
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:58
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:58
+#: inc/theme_shortcodes/shortcodes/faq.php:58
+#: inc/theme_shortcodes/shortcodes/partners.php:59
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:59
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:59
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:58
+#: inc/theme_shortcodes/shortcodes/products_classic.php:59
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:59
+#: inc/theme_shortcodes/shortcodes/products_modern.php:59
+#: inc/theme_shortcodes/shortcodes/products_simple.php:59
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:53
+#: inc/theme_shortcodes/shortcodes/text_block.php:51
+#: inc/theme_shortcodes/shortcodes/why_chose.php:59
+msgid "Classic"
+msgstr "كلاسيكي"
+
+#: inc/theme_shortcodes/shortcodes/about.php:60
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:60
+#: inc/theme_shortcodes/shortcodes/ads.php:53
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:61
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:60
+#: inc/theme_shortcodes/shortcodes/blog.php:60
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:59
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:59
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:59
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:59
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:59
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:59
+#: inc/theme_shortcodes/shortcodes/faq.php:59
+#: inc/theme_shortcodes/shortcodes/partners.php:60
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:60
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:60
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:59
+#: inc/theme_shortcodes/shortcodes/products_classic.php:60
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:60
+#: inc/theme_shortcodes/shortcodes/products_modern.php:60
+#: inc/theme_shortcodes/shortcodes/products_simple.php:60
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:54
+#: inc/theme_shortcodes/shortcodes/text_block.php:52
+#: inc/theme_shortcodes/shortcodes/why_chose.php:60
+msgid "Regular"
+msgstr "مظبوط"
+
+#: inc/theme_shortcodes/shortcodes/about.php:64
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:64
+#: inc/theme_shortcodes/shortcodes/ads.php:57
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:65
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:64
+#: inc/theme_shortcodes/shortcodes/blog.php:64
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:63
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:63
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:63
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:63
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:63
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:63
+#: inc/theme_shortcodes/shortcodes/faq.php:63
+#: inc/theme_shortcodes/shortcodes/partners.php:64
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:64
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:64
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:63
+#: inc/theme_shortcodes/shortcodes/products_classic.php:64
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:64
+#: inc/theme_shortcodes/shortcodes/products_modern.php:64
+#: inc/theme_shortcodes/shortcodes/products_simple.php:64
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:58
+#: inc/theme_shortcodes/shortcodes/text_block.php:56
+#: inc/theme_shortcodes/shortcodes/why_chose.php:64
+msgid "Chose header style."
+msgstr "اختيار نمط رأس."
+
+#: inc/theme_shortcodes/shortcodes/about.php:71
+#: inc/theme_shortcodes/shortcodes/about.php:85
+#: inc/theme_shortcodes/shortcodes/ad_post.php:15
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:71
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:85
+#: inc/theme_shortcodes/shortcodes/ads.php:64
+#: inc/theme_shortcodes/shortcodes/ads.php:78
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:72
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:86
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:71
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:85
+#: inc/theme_shortcodes/shortcodes/apps.php:34
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:51
+#: inc/theme_shortcodes/shortcodes/blog.php:71
+#: inc/theme_shortcodes/shortcodes/blog.php:85
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:70
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:84
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:70
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:84
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:70
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:84
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:70
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:84
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:70
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:84
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:70
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:84
+#: inc/theme_shortcodes/shortcodes/faq.php:70
+#: inc/theme_shortcodes/shortcodes/faq.php:84
+#: inc/theme_shortcodes/shortcodes/partners.php:71
+#: inc/theme_shortcodes/shortcodes/partners.php:85
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:71
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:85
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:71
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:85
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:33
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:70
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:84
+#: inc/theme_shortcodes/shortcodes/products_classic.php:71
+#: inc/theme_shortcodes/shortcodes/products_classic.php:85
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:71
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:85
+#: inc/theme_shortcodes/shortcodes/products_modern.php:71
+#: inc/theme_shortcodes/shortcodes/products_modern.php:85
+#: inc/theme_shortcodes/shortcodes/products_simple.php:71
+#: inc/theme_shortcodes/shortcodes/products_simple.php:85
+#: inc/theme_shortcodes/shortcodes/search_classic.php:34
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:25
+#: inc/theme_shortcodes/shortcodes/search_modern.php:34
+#: inc/theme_shortcodes/shortcodes/search_simple.php:34
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:25
+#: inc/theme_shortcodes/shortcodes/select_product.php:42
+#: inc/theme_shortcodes/shortcodes/sign_in.php:18
+#: inc/theme_shortcodes/shortcodes/sign_up.php:18
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:65
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:79
+#: inc/theme_shortcodes/shortcodes/text_block.php:63
+#: inc/theme_shortcodes/shortcodes/text_block.php:77
+#: inc/theme_shortcodes/shortcodes/why_chose.php:71
+#: inc/theme_shortcodes/shortcodes/why_chose.php:85
+msgid "Section Title"
+msgstr "عنوان القسم"
+
+#: inc/theme_shortcodes/shortcodes/about.php:73
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:73
+#: inc/theme_shortcodes/shortcodes/ads.php:66
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:74
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:73
+#: inc/theme_shortcodes/shortcodes/blog.php:73
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:72
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:72
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:72
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:72
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:72
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:72
+#: inc/theme_shortcodes/shortcodes/faq.php:72
+#: inc/theme_shortcodes/shortcodes/partners.php:73
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:73
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:73
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:35
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:72
+#: inc/theme_shortcodes/shortcodes/products_classic.php:73
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:73
+#: inc/theme_shortcodes/shortcodes/products_modern.php:73
+#: inc/theme_shortcodes/shortcodes/products_simple.php:73
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:67
+#: inc/theme_shortcodes/shortcodes/text_block.php:65
+#: inc/theme_shortcodes/shortcodes/why_chose.php:73
+msgid "For color "
+msgstr "لون ليبيل"
+
+#: inc/theme_shortcodes/shortcodes/about.php:73
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:73
+#: inc/theme_shortcodes/shortcodes/ads.php:66
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:74
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:73
+#: inc/theme_shortcodes/shortcodes/blog.php:73
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:72
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:72
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:72
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:72
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:72
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:72
+#: inc/theme_shortcodes/shortcodes/faq.php:72
+#: inc/theme_shortcodes/shortcodes/partners.php:73
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:73
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:73
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:35
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:72
+#: inc/theme_shortcodes/shortcodes/products_classic.php:73
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:73
+#: inc/theme_shortcodes/shortcodes/products_modern.php:73
+#: inc/theme_shortcodes/shortcodes/products_simple.php:73
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:67
+#: inc/theme_shortcodes/shortcodes/text_block.php:65
+#: inc/theme_shortcodes/shortcodes/why_chose.php:73
+msgid "warp text within this tag"
+msgstr "التفاف النص داخل هذه العلامة"
+
+#: inc/theme_shortcodes/shortcodes/about.php:99
+#: inc/theme_shortcodes/shortcodes/ad_post.php:16
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:99
+#: inc/theme_shortcodes/shortcodes/ads.php:92
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:100
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:99
+#: inc/theme_shortcodes/shortcodes/blog.php:99
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:98
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:98
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:98
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:98
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:98
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:98
+#: inc/theme_shortcodes/shortcodes/faq.php:98
+#: inc/theme_shortcodes/shortcodes/partners.php:99
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:99
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:99
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:43
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:98
+#: inc/theme_shortcodes/shortcodes/products_classic.php:99
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:99
+#: inc/theme_shortcodes/shortcodes/products_modern.php:99
+#: inc/theme_shortcodes/shortcodes/products_simple.php:99
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:92
+#: inc/theme_shortcodes/shortcodes/text_block.php:91
+#: inc/theme_shortcodes/shortcodes/why_chose.php:99
+msgid "Section Description"
+msgstr "القسم الأول الوصف"
+
+#: inc/theme_shortcodes/shortcodes/about.php:113
+#: inc/theme_shortcodes/shortcodes/ad_post.php:31
+#: inc/theme_shortcodes/shortcodes/ad_post.php:365
+#: inc/theme_shortcodes/shortcodes/apps.php:51
+#: inc/theme_shortcodes/shortcodes/apps.php:76
+#: inc/theme_shortcodes/shortcodes/apps.php:101
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:87
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:112
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:42
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:72
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:46
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:83
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:124
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:152
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:180
+#: inc/theme_shortcodes/shortcodes/sign_in.php:32
+#: inc/theme_shortcodes/shortcodes/sign_up.php:36
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:18
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:33
+#: inc/theme_shortcodes/shortcodes/why_chose.php:122
+msgid "Title"
+msgstr "أسم الوصفة"
+
+#: inc/theme_shortcodes/shortcodes/about.php:127
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:56
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:62
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:99
+#: inc/theme_shortcodes/shortcodes/why_chose.php:135
+msgid "Read More Link"
+msgstr "اقرأ المزيد"
+
+#: inc/theme_shortcodes/shortcodes/about.php:129
+msgid "Read more Link if any."
+msgstr "قراءة الرابط المزيد إذا وجدت."
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:9
+msgid "Ad Post"
+msgstr "إعلان وظيفة"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:17
+msgid "Extra Fields Section Title"
+msgstr "حقول إضافية المقطع العنوان"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:18
+msgid "Tip Section Title"
+msgstr "عنوان القسم"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:19
+msgid "Tips Description"
+msgstr "الوصف"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:24
+msgid "Extra Fileds"
+msgstr "حقول إضافية"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:26
+msgid "Add field"
+msgstr "إضافة حقل"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:32
+msgid "Slug"
+msgstr "كلمة الدلالة"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:32
+msgid ""
+"This should be unique and if you change it the pervious data of this field "
+"will be lost"
+msgstr ""
+"هذا وينبغي أن تكون فريدة من نوعها، وإذا قمت بتغيير ذلك ستفقد البيانات السابق "
+"لهذا الحقل"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:34
+msgid "Values for Select/List"
+msgstr "القيم لتحديد قائمة"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:34
+msgid "Like: value1,value2,value3"
+msgstr "مثل: value1, value2, value3"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:41
+msgid "Saftey Tips"
+msgstr "أمن"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:43
+msgid "Add Tip"
+msgstr "إضافة تلميح"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:48
+msgid "Tip"
+msgstr "تلميح"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:252
+msgid "Item Condition"
+msgstr ""
+"هل تريد تبديل ام بيع ( في حال التبديل يرجى وضع السعر صفر, الا اذا كنت تريد "
+"بدل مادي مقابل التبديل)"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:366
+msgid "Enter title"
+msgstr "أدخل العنوان"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:374
+msgid "only"
+msgstr "فقط"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:375
+msgid "Can't be empty and only integers allowed."
+msgstr "لا يمكن أن تكون فارغة، والسماح بالإعداد الصحيحة فقط."
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:381
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:154
+#: inc/theme_shortcodes/shortcodes/ads.php:148
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:156
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:76
+#: inc/theme_shortcodes/shortcodes/blog.php:128
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:127
+#: inc/theme_shortcodes/shortcodes/cats_color.php:39
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:119
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:119
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:127
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:119
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:119
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:81
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:60
+#: inc/theme_shortcodes/shortcodes/search_classic.php:50
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:70
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:31
+#: inc/theme_shortcodes/shortcodes/search_modern.php:83
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:57
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:70
+#: taxonomy-ad_cats.php:23 template-parts/layouts/ad_style/short-summary.php:8
+msgid "Category"
+msgstr "تصنيف"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:381
+msgid "Select suitable category for your ad"
+msgstr "حدد الفئة المناسبة إعلانك"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:427
+msgid "Photos for your ad"
+msgstr "صور إعلانك"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:427
+msgid "Only allowed jpg, png and jpeg and max file will not more than"
+msgstr "فقط سمح jpg، ملف png و jpeg وماكس لن يزيد"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:435
+msgid "Ad Description"
+msgstr "وصف الإعلان"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:435
+msgid "Enter long description for your project"
+msgstr "أدخل وصف طويل للمشروع الخاص بك"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:442
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:442
+msgid "Comma(,) sepataed"
+msgstr "سيباتايد Comma(,)"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:452
+msgid "Type of Ad"
+msgstr "نوع الإعلان"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:467
+msgid "User Information"
+msgstr "معلومات المستخدم"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:479
+msgid "Mobile Number"
+msgstr "رقم الموبايل"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:486
+msgid "your permanent address"
+msgstr "Matimba Chambers"
+
+#: inc/theme_shortcodes/shortcodes/ad_post.php:491
+msgid "Post My Ad"
+msgstr "نشر إعلاني"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:9
+msgid "ADs - Slider"
+msgstr "إعلانات-شريط التمرير"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:10
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:10
+msgid "Once on a Page."
+msgstr "مرة واحدة في صفحة."
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:112
+#: inc/theme_shortcodes/shortcodes/ads.php:105
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:113
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:25
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:38
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:24
+msgid "Ads Type"
+msgstr "نوع الاعلانات"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:116
+#: inc/theme_shortcodes/shortcodes/ads.php:109
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:117
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:29
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:42
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:28
+msgid "Select Ads Type"
+msgstr "اختار تصنيف الاعلان"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:124
+#: inc/theme_shortcodes/shortcodes/ads.php:117
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:125
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:50
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:36
+msgid "Layout Type"
+msgstr "نوع التخطيط"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:128
+#: inc/theme_shortcodes/shortcodes/ads.php:121
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:129
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:54
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:40
+msgid "Select Layout Type"
+msgstr "اختر نوع الشكل."
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:129
+#: inc/theme_shortcodes/shortcodes/ads.php:122
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:130
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:55
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:42
+msgid "Grid 1"
+msgstr "الشبكة 1"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:130
+#: inc/theme_shortcodes/shortcodes/ads.php:123
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:131
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:56
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:43
+msgid "Grid 2"
+msgstr "الشبكة 2"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:131
+#: inc/theme_shortcodes/shortcodes/ads.php:124
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:132
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:57
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:44
+msgid "Grid 3"
+msgstr "شبكة 3"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:137
+#: inc/theme_shortcodes/shortcodes/ads.php:131
+#: inc/theme_shortcodes/shortcodes/blog.php:112
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:53
+msgid "Number fo Ads"
+msgstr "رقم fo الإعلانات"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:147
+#: inc/theme_shortcodes/shortcodes/ads.php:141
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:149
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:69
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:59
+#: inc/theme_shortcodes/shortcodes/blog.php:121
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:120
+#: inc/theme_shortcodes/shortcodes/cats_color.php:32
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:112
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:112
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:120
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:112
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:112
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:74
+#: inc/theme_shortcodes/shortcodes/partners.php:113
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:113
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:113
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:53
+#: inc/theme_shortcodes/shortcodes/products_classic.php:125
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:125
+#: inc/theme_shortcodes/shortcodes/products_modern.php:125
+#: inc/theme_shortcodes/shortcodes/products_simple.php:125
+#: inc/theme_shortcodes/shortcodes/search_classic.php:138
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:168
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:94
+#: inc/theme_shortcodes/shortcodes/search_modern.php:188
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:134
+#: inc/theme_shortcodes/shortcodes/select_product.php:66
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:63
+#: inc/theme_shortcodes/shortcodes/why_chose.php:113
+msgid "Select Category"
+msgstr "اختر تصنيف"
+
+#: inc/theme_shortcodes/shortcodes/ads-slider.php:161
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:163
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:30
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:134
+#: inc/theme_shortcodes/shortcodes/cats_color.php:46
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:126
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:134
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:126
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:53
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:33
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:70
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:67
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:111
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:139
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:167
+msgid "Icon"
+msgstr "أيقونة"
+
+#: inc/theme_shortcodes/shortcodes/ads.php:9
+msgid "ADs"
+msgstr "إعلانات"
+
+#: inc/theme_shortcodes/shortcodes/ads.php:125
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:133
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:58
+msgid "List"
+msgstr "قائمة"
+
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:9
+msgid "ADs - with Cats boxes"
+msgstr "إعلانات-مع مربعات القطط"
+
+#: inc/theme_shortcodes/shortcodes/ads_cats_boxes.php:139
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:59
+msgid "Number fo Ads for each category"
+msgstr "إعلان fo رقم لكل فئة"
+
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:9
+msgid "ADs - Google Map"
+msgstr "إعلان-خريطة جوجل"
+
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:35
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:44
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:51
+msgid "Map"
+msgstr "الخريطة"
+
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:37
+msgid "Map Zoom"
+msgstr "تكبير الخريطة"
+
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:46
+msgid "Latitude"
+msgstr "%s استعادة خط الغرض:"
+
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:47
+msgid ""
+"That Area will be display in map after loading but user can change it by "
+"dragging."
+msgstr ""
+"هذا المجال سيتم عرض في الخارطة بعد التحميل ولكن المستخدم يمكن تغييره بواسطة "
+"السحب."
+
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:53
+msgid "Longitude"
+msgstr "%s استعادة خط الطول :"
+
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:85
+msgid "Category Marker Image"
+msgstr "صورة علامة الفئة"
+
+#: inc/theme_shortcodes/shortcodes/ads_google_map.php:87
+msgid "80x120"
+msgstr "80 × 120"
+
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:10
+msgid "720x90 Banner"
+msgstr "شعار 720 × 90"
+
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:112
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/advertisement.php:7
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/advertisement.php:23
+#: inc/theme_shortcodes/shortcodes/text_block.php:104
+msgid "Banner Ad 720x90"
+msgstr "لافتة إعلانية 720 × 90"
+
+#: inc/theme_shortcodes/shortcodes/advertisement_720-90.php:114
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/advertisement.php:25
+#: inc/theme_shortcodes/shortcodes/text_block.php:106
+msgid "Ad size 720 X 90"
+msgstr "حجم الإعلان 720 × 90"
+
+#: inc/theme_shortcodes/shortcodes/apps.php:9
+msgid "Apps - Simple"
+msgstr "تطبيقات--بسيطة"
+
+#: inc/theme_shortcodes/shortcodes/apps.php:27
+#: inc/theme_shortcodes/shortcodes/select_product.php:27
+msgid "1280x480"
+msgstr "1280 × 480"
+
+#: inc/theme_shortcodes/shortcodes/apps.php:39
+#: inc/theme_shortcodes/shortcodes/apps.php:47
+#: inc/theme_shortcodes/shortcodes/apps.php:55
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:75
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:83
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:91
+msgid "Android"
+msgstr "أندرويد"
+
+#: inc/theme_shortcodes/shortcodes/apps.php:43
+#: inc/theme_shortcodes/shortcodes/apps.php:68
+#: inc/theme_shortcodes/shortcodes/apps.php:93
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:79
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:104
+msgid "Tag Line"
+msgstr "خط الوسم"
+
+#: inc/theme_shortcodes/shortcodes/apps.php:59
+#: inc/theme_shortcodes/shortcodes/apps.php:84
+#: inc/theme_shortcodes/shortcodes/apps.php:109
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:95
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:120
+msgid "Download Link"
+msgstr "رابط التحميل"
+
+#: inc/theme_shortcodes/shortcodes/apps.php:64
+#: inc/theme_shortcodes/shortcodes/apps.php:72
+#: inc/theme_shortcodes/shortcodes/apps.php:80
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:100
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:108
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:116
+msgid "IOS"
+msgstr "آي أو إس"
+
+#: inc/theme_shortcodes/shortcodes/apps.php:89
+#: inc/theme_shortcodes/shortcodes/apps.php:97
+#: inc/theme_shortcodes/shortcodes/apps.php:105
+msgid "Windows"
+msgstr "النوافذ"
+
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:9
+msgid "Apps - Classic"
+msgstr "تطبيقات--كلاسيك"
+
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:27
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:26
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:27
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:27
+#: inc/theme_shortcodes/shortcodes/search_classic.php:27
+#: inc/theme_shortcodes/shortcodes/search_modern.php:27
+#: inc/theme_shortcodes/shortcodes/search_simple.php:27
+msgid "1280x800"
+msgstr "1280 x 800"
+
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:34
+msgid "Main Image"
+msgstr "الصورة الرئيسية"
+
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:36
+msgid "400x500"
+msgstr "400 × 500"
+
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:43
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:33
+#: inc/theme_shortcodes/shortcodes/search_modern.php:42
+#: inc/theme_shortcodes/shortcodes/search_simple.php:43
+#: inc/theme_shortcodes/shortcodes/select_product.php:34
+msgid "Section Tagline"
+msgstr "قسم الشعار"
+
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:57
+#: inc/theme_shortcodes/shortcodes/select_product.php:64
+msgid "Key Points"
+msgstr "نقاط أساسية"
+
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:67
+#: inc/theme_shortcodes/shortcodes/select_product.php:74
+msgid "Point"
+msgstr "نقطة"
+
+#: inc/theme_shortcodes/shortcodes/apps_classic.php:198
+msgid "app image"
+msgstr "أضف صورة"
+
+#: inc/theme_shortcodes/shortcodes/blog.php:9
+msgid "Blog Posts"
+msgstr "مقالات المدونه"
+
+#: inc/theme_shortcodes/shortcodes/blog.php:197
+msgid "comments"
+msgstr "التعليقات"
+
+#: inc/theme_shortcodes/shortcodes/call_to_action.php:9
+msgid "Call to Action"
+msgstr "دعوة للمشاركة"
+
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:9
+msgid "Categories - Classic"
+msgstr "فئات--كلاسيك"
+
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:110
+#: inc/theme_shortcodes/shortcodes/cats_color.php:23
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:110
+msgid "Sub cats limit"
+msgstr "حد القطط الفرعية"
+
+#: inc/theme_shortcodes/shortcodes/cats_classic.php:208
+#: inc/theme_shortcodes/shortcodes/cats_color.php:115
+msgid "View All"
+msgstr "عرض الكل"
+
+#: inc/theme_shortcodes/shortcodes/cats_color.php:9
+msgid "Categories - Color"
+msgstr "فئات-لون"
+
+#: inc/theme_shortcodes/shortcodes/cats_color.php:110
+msgid "ads"
+msgstr "ads"
+
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:9
+msgid "Categories - Fancy"
+msgstr "فئات-الهوى"
+
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:128
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:128
+msgid "Category Image"
+msgstr "صورة التصنيف"
+
+#: inc/theme_shortcodes/shortcodes/cats_fancy.php:130
+msgid "94x90"
+msgstr "94 × 90"
+
+#: inc/theme_shortcodes/shortcodes/cats_flat.php:9
+msgid "Categories - Flat"
+msgstr "فئات-مسطحة"
+
+#: inc/theme_shortcodes/shortcodes/cats_grid.php:9
+msgid "Categories - Grid"
+msgstr "فئات-الشبكة"
+
+#: inc/theme_shortcodes/shortcodes/cats_minimal.php:9
+msgid "Categories - Minimal"
+msgstr "فئات--الحد الأدنى"
+
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:9
+msgid "Categories - Modern"
+msgstr "فئات-الحديثة"
+
+#: inc/theme_shortcodes/shortcodes/cats_modern.php:130
+msgid "270x270"
+msgstr "270 × 270"
+
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:9
+msgid "Categories - Tabs"
+msgstr "ألسنة التصنيفات"
+
+#: inc/theme_shortcodes/shortcodes/cats_tab.php:64
+msgid "Ad limit for each category"
+msgstr "إعلان الحد الأدنى لكل فئة"
+
+#: inc/theme_shortcodes/shortcodes/contact_us.php:9
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: inc/theme_shortcodes/shortcodes/contact_us.php:24
+msgid "Contact Form Title"
+msgstr "عنوان نموذج الاتصال"
+
+#: inc/theme_shortcodes/shortcodes/contact_us.php:31
+msgid "Contact Info Title"
+msgstr "معلومات الاتصال بالعنوان"
+
+#: inc/theme_shortcodes/shortcodes/contact_us.php:39
+msgid "Contact form 7 shortcode"
+msgstr "الرمز المختصر لنموذج الاتصال 7"
+
+#: inc/theme_shortcodes/shortcodes/faq.php:9
+#: inc/theme_shortcodes/shortcodes/faq.php:110
+msgid "FAQ"
+msgstr "اسئلة شائعة"
+
+#: inc/theme_shortcodes/shortcodes/faq.php:112
+msgid "Question & Answer"
+msgstr "سؤال و جواب"
+
+#: inc/theme_shortcodes/shortcodes/faq.php:119
+msgid "Question"
+msgstr "السؤال"
+
+#: inc/theme_shortcodes/shortcodes/faq.php:125
+msgid "Answer"
+msgstr "إجابة"
+
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:9
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:43
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:51
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:62
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:69
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:76
+msgid "Fun Facts"
+msgstr "متعة حقائق"
+
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:32
+#: inc/theme_shortcodes/shortcodes/products_classic.php:112
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:112
+#: inc/theme_shortcodes/shortcodes/products_modern.php:112
+#: inc/theme_shortcodes/shortcodes/products_simple.php:112
+msgid "Column"
+msgstr "عمود"
+
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:35
+#: inc/theme_shortcodes/shortcodes/products_classic.php:115
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:115
+#: inc/theme_shortcodes/shortcodes/products_modern.php:115
+#: inc/theme_shortcodes/shortcodes/products_simple.php:115
+msgid "Select Col "
+msgstr "اختر"
+
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:36
+#: inc/theme_shortcodes/shortcodes/products_classic.php:116
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:116
+#: inc/theme_shortcodes/shortcodes/products_modern.php:116
+#: inc/theme_shortcodes/shortcodes/products_simple.php:116
+msgid "3 Col"
+msgstr "3 العقيد"
+
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:37
+#: inc/theme_shortcodes/shortcodes/products_classic.php:117
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:117
+#: inc/theme_shortcodes/shortcodes/products_modern.php:117
+#: inc/theme_shortcodes/shortcodes/products_simple.php:117
+msgid "4 Col"
+msgstr "4 Col"
+
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:45
+msgid "Fun Fact"
+msgstr "حقيقة مرحة"
+
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:65
+msgid "Numbers"
+msgstr "الأرقام"
+
+#: inc/theme_shortcodes/shortcodes/fun_facts.php:79
+msgid "Color Title"
+msgstr "لون العنوان الفرعي"
+
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:9
+msgid "Info Block"
+msgstr "مكان معلومات الفريق"
+
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:31
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:42
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:50
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:58
+msgid "Left Block"
+msgstr "بلوك"
+
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:68
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:79
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:87
+#: inc/theme_shortcodes/shortcodes/info_blocks.php:95
+msgid "Right Block"
+msgstr "كتلة اليمين"
+
+#: inc/theme_shortcodes/shortcodes/partners.php:9
+msgid "Clients or Partners"
+msgstr "العملاء أو الشركاء"
+
+#: inc/theme_shortcodes/shortcodes/partners.php:111
+#: inc/theme_shortcodes/shortcodes/partners.php:119
+#: inc/theme_shortcodes/shortcodes/partners.php:126
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:111
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:119
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:126
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:111
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:119
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:126
+msgid "Client or Partners"
+msgstr "العملاء أو الشركاء"
+
+#: inc/theme_shortcodes/shortcodes/partners.php:122
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:122
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:122
+msgid "URL or Link"
+msgstr "عنوان URL أو الرابط"
+
+#: inc/theme_shortcodes/shortcodes/partners.php:130
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:130
+msgid "320x150"
+msgstr "320 × 150"
+
+#: inc/theme_shortcodes/shortcodes/partners.php:160
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:160
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:160
+msgid "logo"
+msgstr "الشعار"
+
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:9
+msgid "Clients or Partners - Classic"
+msgstr "العملاء أو الشركاء-كلاسيك"
+
+#: inc/theme_shortcodes/shortcodes/partners_classic.php:130
+msgid "165x107"
+msgstr "165 x 107"
+
+#: inc/theme_shortcodes/shortcodes/partners_grid.php:9
+msgid "Clients or Partners - Grid"
+msgstr "العملاء أو الشركاء-الشبكة"
+
+#: inc/theme_shortcodes/shortcodes/popular_cats.php:9
+msgid "Popular - Categories"
+msgstr "أقسام شائعة"
+
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:9
+msgid "Process Cycle"
+msgstr "دورة عملية"
+
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:109
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:120
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:128
+msgid "Step 1"
+msgstr "الخطوة رقم 1"
+
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:137
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:148
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:156
+msgid "Step 2"
+msgstr "الخطوة رقم 2"
+
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:165
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:176
+#: inc/theme_shortcodes/shortcodes/process_cycle.php:184
+msgid "Step 3"
+msgstr "الخطوة 3"
+
+#: inc/theme_shortcodes/shortcodes/products_classic.php:9
+msgid "Products - Classic"
+msgstr "منتجات-كلاسيك"
+
+#: inc/theme_shortcodes/shortcodes/products_classic.php:110
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:110
+#: inc/theme_shortcodes/shortcodes/products_modern.php:110
+#: inc/theme_shortcodes/shortcodes/products_simple.php:110
+msgid "Products Setting"
+msgstr "إعداد المنتجات"
+
+#: inc/theme_shortcodes/shortcodes/products_classic.php:123
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:123
+#: inc/theme_shortcodes/shortcodes/products_modern.php:123
+#: inc/theme_shortcodes/shortcodes/products_simple.php:123
+msgid "Products"
+msgstr "منتجات"
+
+#: inc/theme_shortcodes/shortcodes/products_classic.php:132
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:132
+#: inc/theme_shortcodes/shortcodes/products_modern.php:132
+#: inc/theme_shortcodes/shortcodes/products_simple.php:132
+#: inc/theme_shortcodes/shortcodes/select_product.php:9
+#: inc/theme_shortcodes/shortcodes/select_product.php:55
+msgid "Select Product"
+msgstr "اختر منتج"
+
+#: inc/theme_shortcodes/shortcodes/products_classic.php:190
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:188
+#: inc/theme_shortcodes/shortcodes/products_modern.php:192
+#: inc/theme_shortcodes/shortcodes/products_simple.php:189
+#: inc/theme_shortcodes/shortcodes/select_product.php:150
+msgid "Select Plan"
+msgstr "اختار الخطة"
+
+#: inc/theme_shortcodes/shortcodes/products_minimal.php:9
+msgid "Products - Minimal"
+msgstr "منتجات-الحد الأدنى"
+
+#: inc/theme_shortcodes/shortcodes/products_modern.php:9
+msgid "Products - Modern"
+msgstr "منتجات-الحديثة"
+
+#: inc/theme_shortcodes/shortcodes/products_simple.php:9
+msgid "Products - Simple"
+msgstr "المنتجات--بسيطة"
+
+#: inc/theme_shortcodes/shortcodes/profile.php:9
+msgid "User Profile"
+msgstr "حساب المستخدم"
+
+#: inc/theme_shortcodes/shortcodes/profile.php:15
+msgid "Prolfile Layout"
+msgstr "تخطيط برولفيلي"
+
+#: inc/theme_shortcodes/shortcodes/search_classic.php:9
+msgid "Search - Classic"
+msgstr "البحث--كلاسيك"
+
+#: inc/theme_shortcodes/shortcodes/search_classic.php:43
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:63
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:24
+#: inc/theme_shortcodes/shortcodes/search_modern.php:76
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:50
+msgid "Select Category ( All or Selective )"
+msgstr "حدد فئة (جميع أو الانتقائي)"
+
+#: inc/theme_shortcodes/shortcodes/search_classic.php:127
+#: inc/theme_shortcodes/shortcodes/search_modern.php:193
+msgid "Search here..."
+msgstr "البحث هنا"
+
+#: inc/theme_shortcodes/shortcodes/search_classic.php:132
+#: inc/theme_shortcodes/shortcodes/search_modern.php:196
+msgid "Location..."
+msgstr "الموقع"
+
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:9
+msgid "Search - Fancy"
+msgstr "البحث--الهوى"
+
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:34
+msgid "for total ads."
+msgstr "مجموع الإعلانات."
+
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:41
+msgid "Slider"
+msgstr "عارض الشرائح"
+
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:43
+msgid "Add Slider Image"
+msgstr "صورة السلايدر"
+
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:54
+msgid "1280x600"
+msgstr "1280 × 600"
+
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:135
+#: inc/theme_shortcodes/shortcodes/sign_in.php:66
+#: inc/theme_shortcodes/shortcodes/sign_in.php:166
+#: inc/theme_shortcodes/shortcodes/sign_up.php:73
+#: inc/theme_shortcodes/shortcodes/sign_up.php:167
+msgid "image"
+msgstr "الصورة"
+
+#: inc/theme_shortcodes/shortcodes/search_fancy.php:174
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:100
+#: inc/theme_shortcodes/shortcodes/search_simple.php:79
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:140
+msgid "What Are You Looking For..."
+msgstr "هتروح على فين ؟"
+
+#: inc/theme_shortcodes/shortcodes/search_minimal.php:9
+msgid "Search - Minimal"
+msgstr "البحث--الحد الأدنى"
+
+#: inc/theme_shortcodes/shortcodes/search_modern.php:9
+msgid "Search - Modern"
+msgstr "البحث-الحديثة"
+
+#: inc/theme_shortcodes/shortcodes/search_modern.php:43
+#: inc/theme_shortcodes/shortcodes/search_simple.php:35
+#, php-format
+msgid "%count% for total ads."
+msgstr "%count % عدد الإعلانات الإجمالي."
+
+#: inc/theme_shortcodes/shortcodes/search_modern.php:50
+msgid "Display tags?"
+msgstr "عرض الوسوم"
+
+#: inc/theme_shortcodes/shortcodes/search_modern.php:55
+#: template-parts/layouts/ad_style/feature-notification.php:66
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/theme_shortcodes/shortcodes/search_modern.php:56
+#: template-parts/layouts/ad_style/feature-notification.php:66
+msgid "No"
+msgstr "لا"
+
+#: inc/theme_shortcodes/shortcodes/search_modern.php:62
+msgid "Max number of tags"
+msgstr "عدد الوسوم"
+
+#: inc/theme_shortcodes/shortcodes/search_modern.php:154
+msgid "Popular Tags"
+msgstr "أشهر الوسوم"
+
+#: inc/theme_shortcodes/shortcodes/search_simple.php:9
+msgid "Search - Simple"
+msgstr "البحث--بسيطة"
+
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:9
+msgid "Search - Stylish"
+msgstr "البحث--أنيق"
+
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:33
+msgid "Minimum Price"
+msgstr "الحد الادنى للسعر"
+
+#: inc/theme_shortcodes/shortcodes/search_stylish.php:41
+msgid "Maximum Price"
+msgstr "الحد الاقصى للسعر"
+
+#: inc/theme_shortcodes/shortcodes/select_product.php:49
+msgid "Button Title & Link"
+msgstr "عنوان الزر"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:9
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:15
+#: inc/theme_shortcodes/shortcodes/sign_up.php:15
+msgid "BG Color"
+msgstr "لون الخلفية"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:15
+#: inc/theme_shortcodes/shortcodes/sign_up.php:15
+msgid "Section background color"
+msgstr "لون خلفية القسم"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:24
+#: inc/theme_shortcodes/shortcodes/sign_up.php:28
+msgid "Features"
+msgstr "الخصائص"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:26
+#: inc/theme_shortcodes/shortcodes/sign_up.php:30
+msgid "Add Feature"
+msgstr "إضافة المزايا"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:31
+#: inc/theme_shortcodes/shortcodes/sign_up.php:35
+msgid "Image 80x80"
+msgstr "الصورة 80 × 80"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:33
+#: inc/theme_shortcodes/shortcodes/sign_up.php:37
+msgid "Page Link"
+msgstr "رابط الصفحة"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:34
+#: inc/theme_shortcodes/shortcodes/sign_up.php:38
+msgid "Short Description"
+msgstr "الوصف المختصر."
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:106
+#: inc/theme_shortcodes/shortcodes/sign_up.php:112
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:114
+#: inc/theme_shortcodes/shortcodes/sign_up.php:120
+msgid "Google"
+msgstr "جوجل"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:150
+#: inc/theme_shortcodes/shortcodes/sign_up.php:150
+msgid "OR"
+msgstr "أو"
+
+#: inc/theme_shortcodes/shortcodes/sign_in.php:185
+msgid "Forgot Your Password ?"
+msgstr "هل نسيت كلمة المرور؟"
+
+#: inc/theme_shortcodes/shortcodes/sign_up.php:9
+msgid "Sign Up"
+msgstr "التسجيل في الموقع"
+
+#: inc/theme_shortcodes/shortcodes/sign_up.php:19
+msgid "Terms & Conditions"
+msgstr "الشروط والأحكام"
+
+#: inc/theme_shortcodes/shortcodes/sign_up.php:20
+msgid "Terms & Condition Title"
+msgstr "شروط & شرط العنوان"
+
+#: inc/theme_shortcodes/shortcodes/sign_up.php:22
+msgid "Capcha Code"
+msgstr "رمز كابتشا"
+
+#: inc/theme_shortcodes/shortcodes/sign_up.php:22
+msgid "Captcha is for stop spamming"
+msgstr "كلمة التحقق لوقف إغراق"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:7
+msgid "Featured or Simple Ads"
+msgstr "إعلان الموصى بها أو بسيطة"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:41
+msgid "Slider (Use once on a page.)"
+msgstr "شريط التمرير (استعمال مرة واحدة في صفحة.)"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:45
+msgid "List 1"
+msgstr "نهاية القائمة 1"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:46
+msgid "List 2"
+msgstr "قائمة 2"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/adforest_ads.php:47
+msgid "List 3"
+msgstr "القائمة  3"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:7
+msgid "Sticky Sidebar"
+msgstr "لصق الشريط الجانبي"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:103
+msgid "Left Side Ad"
+msgstr "الجانب الايسر"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:105
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:113
+msgid "Ad size 160 X 600"
+msgstr "حجم الإعلان 160 × 600"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/index.php:111
+msgid "Right Side Ad"
+msgstr "الجانب الايمن"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:6
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:7
+msgid "Process"
+msgstr "عملية"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:22
+msgid "Steps"
+msgstr "الخطوات"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:24
+msgid "Add Step"
+msgstr "إضافة خطوة"
+
+#: inc/theme_shortcodes/shortcodes/sticky_sidebar/process.php:48
+msgid "64X64"
+msgstr "64 × 64"
+
+#: inc/theme_shortcodes/shortcodes/text_block.php:9
+msgid "Text Block"
+msgstr "كتلة الخط"
+
+#: inc/theme_shortcodes/shortcodes/text_block.php:101
+msgid "Contents"
+msgstr "المحتويات"
+
+#: inc/theme_shortcodes/shortcodes/why_chose.php:9
+msgid "Why Us"
+msgstr "لماذا نحن؟"
+
+#: inc/theme_shortcodes/shortcodes/why_chose.php:111
+#: inc/theme_shortcodes/shortcodes/why_chose.php:119
+#: inc/theme_shortcodes/shortcodes/why_chose.php:126
+#: inc/theme_shortcodes/shortcodes/why_chose.php:133
+msgid "Facts"
+msgstr "حقائق"
+
+#: inc/utilities.php:132
+msgid "Avatar"
+msgstr "الصورة الشخصية"
+
+#: inc/utilities.php:142
+msgid "Reply"
+msgstr "رد"
+
+#: inc/utilities.php:311
+msgid "Next Page &raquo;"
+msgstr "الصفحة التالية &raquo;"
+
+#: inc/utilities.php:359
+msgid "Page not Found"
+msgstr "الصفحة غير موجودة"
+
+#: inc/utilities.php:363
+msgid "Author"
+msgstr "المؤلف"
+
+#: inc/utilities.php:371
+msgid "Archive"
+msgstr "الارشيف"
+
+#: inc/utilities.php:375 inc/utilities.php:423
+msgid "Latest Stories"
+msgstr "أحدث القصص"
+
+#: inc/utilities.php:387
+msgid "entire web"
+msgstr "كامل"
+
+#: inc/utilities.php:392
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: inc/utilities.php:400
+msgid "Tag: "
+msgstr "وسم :"
+
+#: inc/utilities.php:404
+msgid "Page not found"
+msgstr "لم يتم العثور على الصفحة"
+
+#: inc/utilities.php:797
+msgid "Attention!"
+msgstr "تنبيه!"
+
+#: inc/utilities.php:798
+msgid "Please Verify your PURCHASE code in order to work this theme."
+msgstr ""
+"الرجاء التحقق من التعليمات البرمجية الخاصة بك شراء من أجل العمل بهذا الموضوع."
+
+#: inc/utilities.php:800
+msgid "Purchase Code:"
+msgstr "كود الشراء:"
+
+#: inc/utilities.php:864
+msgid "This product is currently out of stock and unavailable."
+msgstr "لقد نفذ هذا المنتج حاليا و غير متوفر"
+
+#: inc/utilities.php:865
+msgid "Adding..."
+msgstr "يتم الإضافة..."
+
+#: inc/utilities.php:866
+msgid "add to cart"
+msgstr "أضف للسلة"
+
+#: inc/utilities.php:867
+msgid "View Cart"
+msgstr "عرض عربة التسوق"
+
+#: inc/utilities.php:868
+msgid "Product Added successfully."
+msgstr "تم إضافة المنتج بنجاح."
+
+#: inc/utilities.php:869
+msgid "Success"
+msgstr "النجاح"
+
+#: inc/utilities.php:870
+msgid "Something went wrong, please try it again."
+msgstr "حدث خطأ. من فضلك حاول مره اخرى"
+
+#: inc/utilities.php:871
+msgid "Error"
+msgstr "خطأ"
+
+#: inc/utilities.php:872
+msgid "Please add valid email."
+msgstr "يرجى إضافة بريد إلكتروني صحيح."
+
+#: inc/utilities.php:873
+msgid "Thank you, we will get back to you."
+msgstr "شكرا لكم، ونحن سوف نعود إليكم."
+
+#: inc/utilities.php:874
+msgid "There is some error, please check your API-KEY and LIST-ID."
+msgstr "هناك بعض الخطأ، الرجاء التحقق من مفتاح المعهد وقائمة--معرف."
+
+#: inc/utilities.php:898
+msgid ""
+"If you delete country permanently then all associated states and cities will "
+"be deleted with it."
+msgstr ""
+"إذا قمت بحذف البلد بشكل دائم ثم جميع الدول المنتسبة وسيتم حذف المدن معها."
+
+#: inc/utilities.php:915
+msgid ""
+"Must need to aad country NAME as google list like United Arab Emirates, "
+"check it"
+msgstr ""
+"يجب أن الحاجة إلى بلد عاد اسم جوجل قائمة مثل الإمارات العربية المتحدة، "
+"والتحقق من ذلك"
+
+#: inc/utilities.php:917
+msgid "HERE"
+msgstr "هنا"
+
+#: inc/utilities.php:954 tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "فعال"
+
+#: inc/utilities.php:954
+msgid "Expired"
+msgstr "منتهي الصلاحية"
+
+#: inc/utilities.php:954
+msgid "Sold"
+msgstr "مباع"
+
+#: inc/utilities.php:962
+msgid "second"
+msgstr "ثانية"
+
+#: inc/utilities.php:962
+msgid "minute"
+msgstr "دقيقة"
+
+#: inc/utilities.php:962
+msgid "hour"
+msgstr "ساعة"
+
+#: inc/utilities.php:962
+msgid "day"
+msgstr "يوم"
+
+#: inc/utilities.php:962
+msgid "month"
+msgstr "شهر"
+
+#: inc/utilities.php:962
+msgid "year"
+msgstr "سنة"
+
+#: inc/utilities.php:973
+msgid "(s) ago"
+msgstr "مرّت"
+
+#: inc/utilities.php:1061
+#, php-format
+msgid "View all posts in %s"
+msgstr "عرض جميع المشاركات الموجودة %s"
+
+#: inc/widgets.php:93
+msgid "Recent Posts"
+msgstr "الصفحات السابقه"
+
+#: inc/widgets.php:110
+msgid "How many posts to diplay:"
+msgstr "كم عدد الوظائف إلى diplay:"
+
+#: inc/widgets.php:254
+msgid "Hide empty categories?"
+msgstr "إخفاء الأقسام الفارغة"
+
+#: page-search.php:149
+msgid "Found Ads"
+msgstr "تم العثور عليه"
+
+#: page-search.php:160
+msgid "Reset Search"
+msgstr "إعادة البحث"
+
+#: page-search.php:169
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+#: page-search.php:189
+msgid "Latest"
+msgstr "الأحدث"
+
+#: page-search.php:190
+msgid "Oldest"
+msgstr "الاقدم"
+
+#: single.php:58
+msgid "Next >>"
+msgstr "التالي >>"
+
+#: single.php:59
+msgid "<< Prev"
+msgstr "السابق"
+
+#: taxonomy-ad_tags.php:23
+msgid "Tag"
+msgstr "كلمة دلائلية"
+
+#: template-parts/content-none.php:12
+msgid "No Result Found."
+msgstr "لم يتم العثور على نتائج"
+
+#: template-parts/layouts/ad-button.php:10
+msgid "Post Free Ad"
+msgstr "بعد إعلان مجاني"
+
+#: template-parts/layouts/ad_style/ad-detail.php:11
+#: template-parts/layouts/ad_style/ad-detail.php:21
+msgid "sold out"
+msgstr "غير متوفر"
+
+#: template-parts/layouts/ad_style/ad-detail.php:45
+msgid "Date"
+msgstr "التاريخ"
+
+#: template-parts/layouts/ad_style/ad-tabs.php:11
+#: template-parts/layouts/ad_style/share-ad.php:13
+msgid "Share"
+msgstr "مشاركة"
+
+#: template-parts/layouts/ad_style/ad-tabs.php:25
+msgid "Report"
+msgstr "تقرير:"
+
+#: template-parts/layouts/ad_style/ad-tabs.php:32
+msgid "Close"
+msgstr "إغلاق"
+
+#: template-parts/layouts/ad_style/ad-tabs.php:33
+msgid "Why are you reporting this ad?"
+msgstr "لماذا يتم الإبلاغ عنها هذا الإعلان؟"
+
+#: template-parts/layouts/ad_style/ad-tabs.php:59
+msgid "Write your comments."
+msgstr "اكتب تعليقاتك هنا"
+
+#: template-parts/layouts/ad_style/ad-tabs.php:64
+#: template-parts/layouts/ad_style/message-seller.php:34
+#: template-parts/layouts/footer-2.php:86
+msgid "Submit"
+msgstr "اعتماد"
+
+#: template-parts/layouts/ad_style/feature-notification.php:28
+msgid ""
+"You package has been expired, please subcribe the package to make it feature "
+"AD. "
+msgstr "انتهت من الحزمة لك، يرجى subcribe الحزمة لجعلها تتميز الإعلانية."
+
+#: template-parts/layouts/ad_style/feature-notification.php:30
+#: template-parts/layouts/ad_style/feature-notification.php:52
+msgid "Packages. "
+msgstr "الباقات"
+
+#: template-parts/layouts/ad_style/feature-notification.php:51
+msgid "You can make this ad as feature ad, have a look on "
+msgstr "يمكنك جعل هذا الإعلان كميزة الإعلانية، وإلقاء نظرة على"
+
+#: template-parts/layouts/ad_style/feature-notification.php:64
+msgid "Mark as featured AD,"
+msgstr "وضع علامة كإعلان الموصى بها،"
+
+#: template-parts/layouts/ad_style/feature-notification.php:67
+msgid "Make it Now."
+msgstr "تجعل من الآن."
+
+#: template-parts/layouts/ad_style/message-seller.php:27
+msgid "Message"
+msgstr "رسالة"
+
+#: template-parts/layouts/ad_style/message-seller.php:28
+msgid "Type here..."
+msgstr "اكتب هنا"
+
+#: template-parts/layouts/ad_style/share-ad.php:56
+msgid "Link"
+msgstr "خط"
+
+#: template-parts/layouts/ad_style/short-summary.php:28
+msgid "Edit"
+msgstr "تعديل"
+
+#: template-parts/layouts/ad_style/sticky-details.php:53
+#: template-parts/layouts/ad_style/sticky-details.php:59
+#: template-parts/layouts/ad_style/style-1.php:100
+#: template-parts/layouts/ad_style/style-1.php:106
+msgid "Message Seller"
+msgstr "رسالة البائع"
+
+#: template-parts/layouts/ad_style/style-1.php:30
+#: template-parts/layouts/ad_style/style-2.php:35
+msgid "This ad has been"
+msgstr "وقد تم هذا الإعلان"
+
+#: template-parts/layouts/blog-loop.php:48
+msgid "Read More"
+msgstr "المزيد"
+
+#: template-parts/layouts/coming-soon.php:12
+#: template-parts/layouts/coming-soon.php:18
+#: template-parts/layouts/footer-1.php:25
+#: template-parts/layouts/footer-1.php:31
+#: template-parts/layouts/footer-2.php:16
+#: template-parts/layouts/footer-2.php:22
+#: template-parts/layouts/footer-3.php:18
+#: template-parts/layouts/footer-3.php:24
+#: template-parts/layouts/site-logo.php:7
+#: template-parts/layouts/site-logo.php:13
+msgid "Site Logo"
+msgstr "شعار الموقع"
+
+#: template-parts/layouts/coming-soon.php:24
+msgid "weeks"
+msgstr "اسابيع"
+
+#: template-parts/layouts/coming-soon.php:24
+msgid "days"
+msgstr "أيام"
+
+#: template-parts/layouts/coming-soon.php:24
+msgid "hr"
+msgstr "ساعة"
+
+#: template-parts/layouts/coming-soon.php:24
+msgid "min"
+msgstr "دقيقة"
+
+#: template-parts/layouts/coming-soon.php:24
+msgid "sec"
+msgstr "﻿ثانية"
+
+#: template-parts/layouts/coming-soon.php:40
+msgid "Valid E-mail Address"
+msgstr "عنوان بريد إلكتروني صالح"
+
+#: template-parts/layouts/coming-soon.php:43
+msgid "Notify Me"
+msgstr "أبلغني"
+
+#: template-parts/layouts/footer-2.php:33
+msgid "Android App"
+msgstr "أندرويد"
+
+#: template-parts/layouts/footer-2.php:37
+msgid "IOS App"
+msgstr "التطبيق دائرة الرقابة الداخلية"
+
+#: template-parts/layouts/footer-2.php:85
+#: template-parts/layouts/footer-3.php:54
+msgid "Enter your email address"
+msgstr "ادخل بريدك الالكتروني"
+
+#: template-parts/layouts/header-2.php:26
+msgid "What Are You Looking For ?"
+msgstr "هتروح على فين ؟"
+
+#: template-parts/layouts/header-2.php:43
+msgid "Post Ad"
+msgstr "أضافة اعلان"
+
+#: template-parts/layouts/html-head.php:30
+msgid "STYLE SWITCHER"
+msgstr "نمط الجلاد"
+
+#: template-parts/layouts/html-head.php:32
+msgid "Choose Colour style"
+msgstr "اختر نمط اللون"
+
+#: template-parts/layouts/html-head.php:66
+msgid "Loading"
+msgstr "جارٍ التحميل"
+
+#: template-parts/layouts/scroll-up.php:5
+msgid "Top"
+msgstr "أعلى"
+
+#: template-parts/layouts/sell-button.php:10
+msgid "SELL"
+msgstr "بيع"
+
+#: template-parts/layouts/top-bar.php:78
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+#: template-parts/layouts/top-bar.php:79
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#: tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "جاري تثبيت الإضافة: %s"
+
+#: tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "جاري تحديث الإضافة: %s"
+
+#: tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "حصل شيء خاطئ مع إضافة  API ."
+
+#: tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "هذا القالب يتطلب الاضافة التالية:%1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "هذا القالب يوصي بالاضافة التالية: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"الاضافة  التالية تحتاج إلى تحديث للإصدار الأخير لضمان أقصى قدر من التوافق مع "
+"هذا القالب :%1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "يتوفر تحديث لـ: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "الاضافة  التالية  المطلوبة  غير نشطة حاليا: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "يوصي ان تكون الاضافة  التالية  المطلوبة   غير نشط حاليا: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "بدء تثبيت الاضافة"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "بدء تحديث  الاضافة"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "بدء تفعيل  الاضافة"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "الرجوع إلى مثبت الإضافات المطلوبة"
+
+#: tgm/class-tgm-plugin-activation.php:393
+#: tgm/class-tgm-plugin-activation.php:912
+#: tgm/class-tgm-plugin-activation.php:2618
+#: tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة التحكم"
+
+#: tgm/class-tgm-plugin-activation.php:394
+#: tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "الاضافه تم تفعيلها بنجاح."
+
+#: tgm/class-tgm-plugin-activation.php:395
+#: tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "الإضافة التالية تم تفعيلها بنجاح:"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "لم يتم اتخاذ اي اجراء. الاضافة %1$s كانت نشطة بالفعل."
+
+#: tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"الاضافة غير نشطة. هناك حاجة إلى إصدار أعلى من %s لهذا القالب. يرجى تحديث "
+"الاضافة."
+
+#: tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الاضافات تم تفعيلها بنجاح . %1$s"
+
+#: tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "تجاهل هذا الاشعار"
+
+#: tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"هناك واحدة او اكثر من الاضافات المطلوبة او الموصى بها لتثبيتها, تحديثها او "
+"تفعيلها."
+
+#: tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "الرجاء الاتصال بمسؤول هذا الموقع للحصول على المساعدة."
+
+#: tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "تحتاج هذه الاضافة للتحديث لتكون متوافقة مع القالب الخاص بك."
+
+#: tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "مطلوب التحديث"
+
+#: tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"حزمة الإضافة لا تحتوي على ملف بالكلمة المطلوبة وإعادة تسمية الملف لم تعمل."
+
+#: tgm/class-tgm-plugin-activation.php:1019
+#: tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"يرجى الاتصال بمزود الاضافة والمطالبة بحزمة اضافة وفقا للمبادئ التوجيهية "
+"للووردبريس"
+
+#: tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"تحتاج حزمة الاضافة أكثر من ملف واحد, ولكن لم يتم تعبئة الملفات في مجلد."
+
+#: tgm/class-tgm-plugin-activation.php:1206
+#: tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "T"
+
+#: tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "مطلوب"
+
+#: tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "موصى به"
+
+#: tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "اضغط على كلمة مستودع"
+
+#: tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "المجموعة مجهزة مسبقا"
+
+#: tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+#: tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "مثبت ولكن غير مفعل"
+
+#: tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متاح"
+
+#: tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "يتطلب تحديث"
+
+#: tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "موصى بالتحديث"
+
+#: tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "‏"
+
+#: tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "جميع <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "للتثبيت  <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "تحديث متاح  <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "للتنشيط   <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "غير معروف"
+
+#: tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "الاصدار المثبت"
+
+#: tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "الحد الادنى للاصدار المطلوب"
+
+#: tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "الإصدار المتاح:"
+
+#: tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "لا توجد إضافات للتثبيت أو التحديث أو التفعيل."
+
+#: tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "إضافة"
+
+#: tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "مصدر"
+
+#: tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "اصدار"
+
+#: tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "الحالة"
+
+#: tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#: tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "تحديث %2$s"
+
+#: tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "تفعيل %2$s"
+
+#: tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "ترقية رسالة من صاحب الاضافة:"
+
+#: tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "تثبيت"
+
+#: tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "تحديث"
+
+#: tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "اضغط للتفعيل"
+
+#: tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لم يتم تحديد أي الإضافات ليتم تثبيتها. لم يتم اتخاذ أي إجراء."
+
+#: tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لم يتم تحديد أي الإضافات لتحديثها. لم يتم اتخاذ أي إجراء."
+
+#: tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "لاتوجد إضافات متاحه حاليا لتثبيتها"
+
+#: tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "لا توجد إضافات متوفرة ليتم تحديثها في هذا الوقت"
+
+#: tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "لم يتم تحديد أي الإضافات لتفعيلها."
+
+#: tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "لاتوجد إضافات متاحه حاليا لتفعيلها"
+
+#: tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل الاضافة"
+
+#: tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"عملية التثبيت والتفعيل بدأت. قد تستغرق هذه العملية بعض الوقت، لذا يرجى "
+"التحلي بالصبر."
+
+#: tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s اضافات تم تفعيلها بنجاح ."
+
+#: tgm/class-tgm-plugin-activation.php:3594
+#: tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "اظهار التفاصيل"
+
+#: tgm/class-tgm-plugin-activation.php:3594
+#: tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "إخفاء التفاصيل"
+
+#: tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "جميع التنزيلات والتفعيل اكتملت"
+
+#: tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت وتفعيل الإضافة %1$s (%2$d/%3$d)"
+
+#: tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"عملية التثبيت بدأت. قد تستغرق هذه العملية بعض الوقت، لذا يرجى الانتظار ."
+
+#: tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s تم تفعيلها بنجاح ."
+
+#: tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "تم اكتمال جميع عمليات تثبيت سكربت الرمز العبقري | Genius Icon ."
+
+#: tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/tgm-init.php:83
+msgid "WP Bakery Visual Composer"
+msgstr "الملحن البصري مخبز الفسفور الأبيض"
+
+#: tgm/tgm-init.php:94
+msgid "SB Framework"
+msgstr "إطار بينالي الشارقة"
+
+#: tgm/tgm-init.php:106
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: tgm/tgm-init.php:117
+msgid "Contact Form 7"
+msgstr "نموذج اتصال 7"
+
+#. Theme Name of the plugin/theme
+msgid "adforest"
+msgstr "أدفوريست"
+
+#. Theme URI of the plugin/theme
+msgid "http://adforest.wp.scriptsbundle.com/demos/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adforest classified, responsive, multi-purpose, corporate, business theme. "
+"It comes with 11 home variations with all necessary pages. Adforest theme "
+"filled with extra functionality of modern web technologies. The clean design "
+"with latest version of Bootstrap framework makes its fit for anywhere."
+msgstr ""
+"موضوع الأعمال السرية، ومستجيبة، متعددة الأغراض، الشركات، أدفوريست. لأنه يأتي "
+"مع 11 الاختلافات الرئيسية مع كافة الصفحات الضرورية. موضوع أدفوريست مليئة "
+"بوظائف إضافية من تقنيات الإنترنت الحديثة. يجعل التصميم نظيفة مع أحدث إصدار "
+"من إطار Bootstrap مناسباً لها في أي مكان."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "حزمة البرامج النصية"
+
+#. Author URI of the plugin/theme
+msgid "http://glixentech.com/"
+msgstr "http://glixentech.com/"
